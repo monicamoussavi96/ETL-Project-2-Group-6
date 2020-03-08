@@ -1,0 +1,232 @@
+country,region
+Afghanistan,APAC
+American Samoa,APAC
+Australia,APAC
+Bangladesh,APAC
+Bhutan,APAC
+British Indian Ocean Territory,APAC
+Brunei Darussalam,APAC
+Cambodia,APAC
+China,APAC
+Christmas Island,APAC
+Cocos (Keeling) Islands,APAC
+Cook Island,APAC
+Federated States of Micronesia,APAC
+Fiji,APAC
+"French Polynesia, FOC",APAC
+Guam,APAC
+Hong Kong,APAC
+India,APAC
+Indonesia,APAC
+Japan,APAC
+Kiribati,APAC
+Laos,APAC
+Macau,APAC
+Malaysia,APAC
+Maldives,APAC
+Marshall Islands,APAC
+Mongolia,APAC
+Myanmar,APAC
+Nauru,APAC
+Nepal,APAC
+"New Caledonia, FOC",APAC
+New Zealand,APAC
+Niue,APAC
+Norfolk Island,APAC
+North Korea,APAC
+Northern Mariana Islands,APAC
+Pakistan,APAC
+Palau,APAC
+Papua New Guinea,APAC
+Philippines,APAC
+Pitcairn Islands,APAC
+Russia,APAC
+Samoa,APAC
+Singapore,APAC
+Solomon Islands,APAC
+"Korea, Republic of",APAC
+Sri Lanka,APAC
+Taiwan,APAC
+Thailand,APAC
+Timor-Leste,APAC
+Tokelau,APAC
+Tonga,APAC
+Tuvalu,APAC
+Vanuatu,APAC
+Vietnam,APAC
+Wallis and Futuna,APAC
+Albania,EMEA
+Algeria,EMEA
+Andorra,EMEA
+Angola,EMEA
+Austria,EMEA
+Bahrain,EMEA
+Belarus,EMEA
+Belgium,EMEA
+Benin,EMEA
+Bosnia and Hezegovina,EMEA
+Botswana,EMEA
+Bulgaria,EMEA
+Burkina Faso,EMEA
+Burundi,EMEA
+Cameroon,EMEA
+Cap Verde,EMEA
+Central African Republic,EMEA
+Chad,EMEA
+Comoros,EMEA
+Croatia,EMEA
+Cyprus,EMEA
+Czech Republic,EMEA
+Democratic Republic of the Congo,EMEA
+Denmark,EMEA
+Djibouti,EMEA
+Egypt,EMEA
+Equatorial Guinea,EMEA
+Eritrea,EMEA
+Estonia,EMEA
+Ethiopia,EMEA
+Faroe Islands,EMEA
+Finland,EMEA
+France,EMEA
+Gabon,EMEA
+Gambia,EMEA
+Georgia,EMEA
+Germany,EMEA
+Ghana,EMEA
+Gibraltar,EMEA
+Greece,EMEA
+"Guernsey, Crown Dependency",EMEA
+Guinea,EMEA
+Guinea-Bissau,EMEA
+Hungary,EMEA
+Iceland,EMEA
+Iran,EMEA
+Iraq,EMEA
+Ireland,EMEA
+"Isle of Man, Crown Dependency",EMEA
+Israel,EMEA
+Italy,EMEA
+Cote d'Ivoire,EMEA
+"Jersey, Crown Dependency",EMEA
+Jordan,EMEA
+Kenya,EMEA
+Kuwait,EMEA
+Latvia,EMEA
+Lebanon,EMEA
+Lesotho,EMEA
+Liberia,EMEA
+Libya,EMEA
+Liechtenstein,EMEA
+Lithuania,EMEA
+Luxembourg,EMEA
+The former Yugoslav Republic of Macedonia,EMEA
+Madagascar,EMEA
+Malawi,EMEA
+Mali,EMEA
+Malta,EMEA
+Mauritania,EMEA
+Mauritius,EMEA
+Moldova,EMEA
+Monaco,EMEA
+Montenegro,EMEA
+Morocco,EMEA
+Mozambique,EMEA
+Namibia,EMEA
+Netherlands,EMEA
+Niger,EMEA
+Nigeria,EMEA
+Norway,EMEA
+Oman,EMEA
+Palestine,EMEA
+Poland,EMEA
+Portugal,EMEA
+Qatar,EMEA
+Romania,EMEA
+Rwanda,EMEA
+San Marino,EMEA
+Sao Tome & Principe,EMEA
+Saudi Arabia,EMEA
+Senegal,EMEA
+Serbia,EMEA
+Slovakia,EMEA
+Slovenia,EMEA
+Somalia,EMEA
+South Africa,EMEA
+Spain,EMEA
+Sudan,EMEA
+Swaziland,EMEA
+Sweden,EMEA
+Switzerland,EMEA
+Syria,EMEA
+Tanzania,EMEA
+Togo,EMEA
+Tunisia,EMEA
+Turkey,EMEA
+Uganda,EMEA
+Ukraine,EMEA
+United Arab Emirates,EMEA
+United Kingdom,EMEA
+Vatican City,EMEA
+Western Sahara,EMEA
+Yemen,EMEA
+Zambia,EMEA
+Zimbabwe,EMEA
+USA,AMER
+Brazil,AMER
+Mexico,AMER
+Colombia,AMER
+Argentina,AMER
+Canada,AMER
+Peru,AMER
+Venezuela,AMER
+Chile,AMER
+Ecuador,AMER
+Guatemala,AMER
+Cuba,AMER
+Bolivia,AMER
+Haiti,AMER
+Dominican Republic,AMER
+Honduras,AMER
+Paraguay,AMER
+Nicaragua,AMER
+El Salvador,AMER
+Costa Rica,AMER
+Panama,AMER
+Puerto Rico,AMER
+Uruguay,AMER
+Jamaica,AMER
+Trinidad and Tobago,AMER
+Guyana,AMER
+Suriname,AMER
+"Guadaloupe, FOC",AMER
+"Martinique, FOC",AMER
+Bahamas,AMER
+Belize,AMER
+Barbados,AMER
+French Guiana (France),AMER
+Saint Lucia,AMER
+"Netherlands Antilles, Curaçao",AMER
+"Netherlands, Aruba",AMER
+Saint Vincent and the Grenadines,AMER
+United States Virgin Islands (US),AMER
+Grenada,AMER
+Antigua and Barbuda,AMER
+Dominica,AMER
+"Bermuda, UKOT",AMER
+"Cayman Islands, UKOT",AMER
+Greenland (Denmark),AMER
+Saint Kitts and Nevis,AMER
+"Netherlands Antilles, Sint Maarten",AMER
+Turks and Caicos Islands (UK),AMER
+"Saint Martin, FOC",AMER
+Virgin Islands,AMER
+Caribbean Netherlands (Kingdom of the Netherlands),AMER
+Anguilla (UK),AMER
+Saint Barthélemy (France),AMER
+Saint Pierre and Miquelon (France),AMER
+Montserrat (UK),AMER
+Falkland Islands (UK)[6],AMER
+West Bank and Gaza Strip,EMEA
+Azerbaijan,EMEA
+Sierra Leone,EMEA
+Armenia,APAC

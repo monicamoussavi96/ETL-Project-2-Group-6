@@ -1,0 +1,1370 @@
+country,date,week_number,month,year,cases,deaths,recovered,virus_type
+ Azerbaijan,2020-02-28,9,2,2020,1.0,0.0,0.0,Coronavirus
+Afghanistan,2020-02-24,9,2,2020,1.0,0.0,0.0,Coronavirus
+Afghanistan,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Afghanistan,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Afghanistan,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Afghanistan,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Afghanistan,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Afghanistan,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Afghanistan,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Afghanistan,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Algeria,2020-02-25,9,2,2020,1.0,0.0,0.0,Coronavirus
+Algeria,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Algeria,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Algeria,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Algeria,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Algeria,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Algeria,2020-03-02,10,3,2020,2.0,0.0,0.0,Coronavirus
+Algeria,2020-03-03,10,3,2020,2.0,0.0,0.0,Coronavirus
+Andorra,2020-03-02,10,3,2020,1.0,0.0,0.0,Coronavirus
+Andorra,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Argentina,2020-03-03,10,3,2020,1.0,0.0,0.0,Coronavirus
+Armenia,2020-03-01,9,3,2020,1.0,0.0,0.0,Coronavirus
+Armenia,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Armenia,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-01-23,4,1,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-01-25,4,1,2020,3.0,0.0,0.0,Coronavirus
+Australia,2020-01-26,4,1,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-01-27,5,1,2020,6.0,0.0,0.0,Coronavirus
+Australia,2020-01-28,5,1,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-01-29,5,1,2020,2.0,0.0,0.0,Coronavirus
+Australia,2020-01-30,5,1,2020,2.0,0.0,2.0,Coronavirus
+Australia,2020-01-31,5,1,2020,1.0,0.0,0.0,Coronavirus
+Australia,2020-02-01,5,2,2020,3.0,0.0,0.0,Coronavirus
+Australia,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-04,6,2,2020,1.0,0.0,0.0,Coronavirus
+Australia,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-06,6,2,2020,1.0,0.0,0.0,Coronavirus
+Australia,2020-02-07,6,2,2020,1.0,0.0,0.0,Coronavirus
+Australia,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-13,7,2,2020,0.0,0.0,6.0,Coronavirus
+Australia,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-17,8,2,2020,0.0,0.0,2.0,Coronavirus
+Australia,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-21,8,2,2020,4.0,0.0,1.0,Coronavirus
+Australia,2020-02-22,8,2,2020,3.0,0.0,0.0,Coronavirus
+Australia,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-27,9,2,2020,1.0,0.0,0.0,Coronavirus
+Australia,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Australia,2020-02-29,9,2,2020,10.0,0.0,0.0,Coronavirus
+Australia,2020-03-01,9,3,2020,2.0,1.0,0.0,Coronavirus
+Australia,2020-03-02,10,3,2020,3.0,0.0,0.0,Coronavirus
+Australia,2020-03-03,10,3,2020,9.0,0.0,0.0,Coronavirus
+Austria,2020-02-25,9,2,2020,2.0,0.0,0.0,Coronavirus
+Austria,2020-02-26,9,2,2020,2.0,0.0,0.0,Coronavirus
+Austria,2020-02-27,9,2,2020,1.0,0.0,0.0,Coronavirus
+Austria,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Austria,2020-02-29,9,2,2020,6.0,0.0,0.0,Coronavirus
+Austria,2020-03-01,9,3,2020,5.0,0.0,0.0,Coronavirus
+Austria,2020-03-02,10,3,2020,4.0,0.0,0.0,Coronavirus
+Austria,2020-03-03,10,3,2020,3.0,0.0,0.0,Coronavirus
+Azerbaijan,2020-03-01,9,3,2020,3.0,0.0,0.0,Coronavirus
+Azerbaijan,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Azerbaijan,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Bahrain,2020-02-24,9,2,2020,1.0,0.0,0.0,Coronavirus
+Bahrain,2020-02-25,9,2,2020,22.0,0.0,0.0,Coronavirus
+Bahrain,2020-02-26,9,2,2020,10.0,0.0,0.0,Coronavirus
+Bahrain,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Bahrain,2020-02-28,9,2,2020,3.0,0.0,0.0,Coronavirus
+Bahrain,2020-02-29,9,2,2020,5.0,0.0,0.0,Coronavirus
+Bahrain,2020-03-01,9,3,2020,6.0,0.0,0.0,Coronavirus
+Bahrain,2020-03-02,10,3,2020,2.0,0.0,0.0,Coronavirus
+Bahrain,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Belarus,2020-02-28,9,2,2020,1.0,0.0,0.0,Coronavirus
+Belarus,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Belarus,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Belarus,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Belarus,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-04,6,2,2020,1.0,0.0,0.0,Coronavirus
+Belgium,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-17,8,2,2020,0.0,0.0,1.0,Coronavirus
+Belgium,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Belgium,2020-03-01,9,3,2020,1.0,0.0,0.0,Coronavirus
+Belgium,2020-03-02,10,3,2020,6.0,0.0,0.0,Coronavirus
+Belgium,2020-03-03,10,3,2020,5.0,0.0,0.0,Coronavirus
+Brazil,2020-01-23,4,1,2020,0.0,0.0,0.0,Coronavirus
+Brazil,2020-02-26,9,2,2020,1.0,0.0,0.0,Coronavirus
+Brazil,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Brazil,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Brazil,2020-02-29,9,2,2020,1.0,0.0,0.0,Coronavirus
+Brazil,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Brazil,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Brazil,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-01-27,5,1,2020,1.0,0.0,0.0,Coronavirus
+Cambodia,2020-01-28,5,1,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-01-29,5,1,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-12,7,2,2020,0.0,0.0,1.0,Coronavirus
+Cambodia,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Cambodia,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-01-26,4,1,2020,1.0,0.0,0.0,Coronavirus
+Canada,2020-01-27,5,1,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-01-28,5,1,2020,2.0,0.0,0.0,Coronavirus
+Canada,2020-01-29,5,1,2020,2.0,0.0,0.0,Coronavirus
+Canada,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-01,5,2,2020,1.0,0.0,0.0,Coronavirus
+Canada,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-03,6,2,2020,3.0,0.0,0.0,Coronavirus
+Canada,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-06,6,2,2020,1.0,0.0,0.0,Coronavirus
+Canada,2020-02-07,6,2,2020,2.0,0.0,0.0,Coronavirus
+Canada,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-12,7,2,2020,0.0,0.0,1.0,Coronavirus
+Canada,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-17,8,2,2020,1.0,0.0,0.0,Coronavirus
+Canada,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-21,8,2,2020,1.0,0.0,2.0,Coronavirus
+Canada,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-24,9,2,2020,1.0,0.0,0.0,Coronavirus
+Canada,2020-02-25,9,2,2020,1.0,0.0,0.0,Coronavirus
+Canada,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Canada,2020-02-27,9,2,2020,2.0,0.0,3.0,Coronavirus
+Canada,2020-02-28,9,2,2020,1.0,0.0,0.0,Coronavirus
+Canada,2020-02-29,9,2,2020,6.0,0.0,0.0,Coronavirus
+Canada,2020-03-01,9,3,2020,4.0,0.0,0.0,Coronavirus
+Canada,2020-03-02,10,3,2020,3.0,0.0,0.0,Coronavirus
+Canada,2020-03-03,10,3,2020,3.0,0.0,0.0,Coronavirus
+Chile,2020-03-03,10,3,2020,1.0,0.0,0.0,Coronavirus
+China,2020-01-22,4,1,2020,235.0,3.0,0.0,Coronavirus
+China,2020-01-23,4,1,2020,92.0,9.0,30.0,Coronavirus
+China,2020-01-24,4,1,2020,261.0,8.0,6.0,Coronavirus
+China,2020-01-25,4,1,2020,612.0,15.0,10.0,Coronavirus
+China,2020-01-26,4,1,2020,703.0,24.0,2.0,Coronavirus
+China,2020-01-27,5,1,2020,1627.0,27.0,5.0,Coronavirus
+China,2020-01-28,5,1,2020,1389.0,26.0,33.0,Coronavirus
+China,2020-01-29,5,1,2020,1644.0,37.0,9.0,Coronavirus
+China,2020-01-30,5,1,2020,1536.0,42.0,44.0,Coronavirus
+China,2020-01-31,5,1,2020,125.0,0.0,36.0,Coronavirus
+China,2020-02-01,5,2,2020,2513.0,45.0,56.0,Coronavirus
+China,2020-02-02,5,2,2020,2705.0,57.0,106.0,Coronavirus
+China,2020-02-03,6,2,2020,3156.0,64.0,112.0,Coronavirus
+China,2020-02-04,6,2,2020,3832.0,65.0,189.0,Coronavirus
+China,2020-02-05,6,2,2020,115.0,2.0,130.0,Coronavirus
+China,2020-02-06,6,2,2020,3092.0,72.0,254.0,Coronavirus
+China,2020-02-07,6,2,2020,603.0,2.0,262.0,Coronavirus
+China,2020-02-08,6,2,2020,2598.0,89.0,321.0,Coronavirus
+China,2020-02-09,6,2,2020,34.0,1.0,220.0,Coronavirus
+China,2020-02-10,7,2,2020,10726.0,198.0,1004.0,Coronavirus
+China,2020-02-11,7,2,2020,6874.0,98.0,462.0,Coronavirus
+China,2020-02-12,7,2,2020,4558.0,252.0,888.0,Coronavirus
+China,2020-02-13,7,2,2020,3997.0,121.0,799.0,Coronavirus
+China,2020-02-14,7,2,2020,25.0,1.0,335.0,Coronavirus
+China,2020-02-15,7,2,2020,4478.0,281.0,2212.0,Coronavirus
+China,2020-02-16,7,2,2020,2099.0,103.0,1454.0,Coronavirus
+China,2020-02-17,8,2,2020,1918.0,98.0,1707.0,Coronavirus
+China,2020-02-18,8,2,2020,1775.0,139.0,1744.0,Coronavirus
+China,2020-02-19,8,2,2020,407.0,112.0,1753.0,Coronavirus
+China,2020-02-20,8,2,2020,453.0,122.0,2050.0,Coronavirus
+China,2020-02-21,8,2,2020,473.0,0.0,691.0,Coronavirus
+China,2020-02-22,8,2,2020,1450.0,205.0,3994.0,Coronavirus
+China,2020-02-23,8,2,2020,16.0,2.0,483.0,Coronavirus
+China,2020-02-24,9,2,2020,214.0,150.0,1820.0,Coronavirus
+China,2020-02-25,9,2,2020,508.0,70.0,2660.0,Coronavirus
+China,2020-02-26,9,2,2020,405.0,52.0,2403.0,Coronavirus
+China,2020-02-27,9,2,2020,433.0,29.0,2845.0,Coronavirus
+China,2020-02-28,9,2,2020,326.0,44.0,3393.0,Coronavirus
+China,2020-02-29,9,2,2020,427.0,47.0,2988.0,Coronavirus
+China,2020-03-01,9,3,2020,575.0,35.0,2839.0,Coronavirus
+China,2020-03-02,10,3,2020,200.0,42.0,2692.0,Coronavirus
+China,2020-03-03,10,3,2020,125.0,33.0,2594.0,Coronavirus
+Colombia,2020-01-23,4,1,2020,0.0,0.0,0.0,Coronavirus
+Cote d'Ivoire,2020-01-27,5,1,2020,1.0,0.0,0.0,Coronavirus
+Croatia,2020-02-25,9,2,2020,1.0,0.0,0.0,Coronavirus
+Croatia,2020-02-26,9,2,2020,2.0,0.0,0.0,Coronavirus
+Croatia,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Croatia,2020-02-28,9,2,2020,2.0,0.0,0.0,Coronavirus
+Croatia,2020-02-29,9,2,2020,1.0,0.0,0.0,Coronavirus
+Croatia,2020-03-01,9,3,2020,1.0,0.0,0.0,Coronavirus
+Croatia,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Croatia,2020-03-03,10,3,2020,2.0,0.0,0.0,Coronavirus
+Czech Republic,2020-03-01,9,3,2020,3.0,0.0,0.0,Coronavirus
+Czech Republic,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Czech Republic,2020-03-03,10,3,2020,2.0,0.0,0.0,Coronavirus
+Denmark,2020-02-27,9,2,2020,1.0,0.0,0.0,Coronavirus
+Denmark,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Denmark,2020-02-29,9,2,2020,2.0,0.0,0.0,Coronavirus
+Denmark,2020-03-01,9,3,2020,1.0,0.0,0.0,Coronavirus
+Denmark,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Denmark,2020-03-03,10,3,2020,2.0,0.0,0.0,Coronavirus
+Dominican Republic,2020-03-01,9,3,2020,1.0,0.0,0.0,Coronavirus
+Dominican Republic,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Dominican Republic,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Ecuador,2020-03-01,9,3,2020,6.0,0.0,0.0,Coronavirus
+Ecuador,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Ecuador,2020-03-03,10,3,2020,1.0,0.0,0.0,Coronavirus
+Egypt,2020-02-15,7,2,2020,1.0,0.0,0.0,Coronavirus
+Egypt,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-02-28,9,2,2020,0.0,0.0,1.0,Coronavirus
+Egypt,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-03-01,9,3,2020,1.0,0.0,0.0,Coronavirus
+Egypt,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Egypt,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Estonia,2020-02-27,9,2,2020,1.0,0.0,0.0,Coronavirus
+Estonia,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Estonia,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Estonia,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Estonia,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Estonia,2020-03-03,10,3,2020,1.0,0.0,0.0,Coronavirus
+Finland,2020-01-29,5,1,2020,1.0,0.0,0.0,Coronavirus
+Finland,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-11,7,2,2020,0.0,0.0,1.0,Coronavirus
+Finland,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-26,9,2,2020,1.0,0.0,0.0,Coronavirus
+Finland,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-02-29,9,2,2020,1.0,0.0,0.0,Coronavirus
+Finland,2020-03-01,9,3,2020,3.0,0.0,0.0,Coronavirus
+Finland,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Finland,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+France,2020-01-24,4,1,2020,2.0,0.0,0.0,Coronavirus
+France,2020-01-25,4,1,2020,1.0,0.0,0.0,Coronavirus
+France,2020-01-26,4,1,2020,0.0,0.0,0.0,Coronavirus
+France,2020-01-27,5,1,2020,0.0,0.0,0.0,Coronavirus
+France,2020-01-28,5,1,2020,1.0,0.0,0.0,Coronavirus
+France,2020-01-29,5,1,2020,1.0,0.0,0.0,Coronavirus
+France,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+France,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-01,5,2,2020,1.0,0.0,0.0,Coronavirus
+France,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-08,6,2,2020,5.0,0.0,0.0,Coronavirus
+France,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-12,7,2,2020,0.0,0.0,2.0,Coronavirus
+France,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-15,7,2,2020,1.0,1.0,2.0,Coronavirus
+France,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+France,2020-02-25,9,2,2020,2.0,0.0,7.0,Coronavirus
+France,2020-02-26,9,2,2020,4.0,1.0,0.0,Coronavirus
+France,2020-02-27,9,2,2020,20.0,0.0,0.0,Coronavirus
+France,2020-02-28,9,2,2020,19.0,0.0,0.0,Coronavirus
+France,2020-02-29,9,2,2020,43.0,0.0,1.0,Coronavirus
+France,2020-03-01,9,3,2020,30.0,0.0,0.0,Coronavirus
+France,2020-03-02,10,3,2020,61.0,1.0,0.0,Coronavirus
+France,2020-03-03,10,3,2020,13.0,1.0,0.0,Coronavirus
+Georgia,2020-02-26,9,2,2020,1.0,0.0,0.0,Coronavirus
+Georgia,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Georgia,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Georgia,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Georgia,2020-03-01,9,3,2020,2.0,0.0,0.0,Coronavirus
+Georgia,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Georgia,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-01-27,5,1,2020,1.0,0.0,0.0,Coronavirus
+Germany,2020-01-28,5,1,2020,3.0,0.0,0.0,Coronavirus
+Germany,2020-01-29,5,1,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-01-31,5,1,2020,1.0,0.0,0.0,Coronavirus
+Germany,2020-02-01,5,2,2020,10.0,0.0,0.0,Coronavirus
+Germany,2020-02-02,5,2,2020,2.0,0.0,0.0,Coronavirus
+Germany,2020-02-03,6,2,2020,2.0,0.0,0.0,Coronavirus
+Germany,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-07,6,2,2020,1.0,0.0,0.0,Coronavirus
+Germany,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-09,6,2,2020,1.0,0.0,0.0,Coronavirus
+Germany,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-11,7,2,2020,2.0,0.0,0.0,Coronavirus
+Germany,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-13,7,2,2020,0.0,0.0,1.0,Coronavirus
+Germany,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-18,8,2,2020,0.0,0.0,11.0,Coronavirus
+Germany,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-21,8,2,2020,0.0,0.0,2.0,Coronavirus
+Germany,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Germany,2020-02-25,9,2,2020,1.0,0.0,0.0,Coronavirus
+Germany,2020-02-26,9,2,2020,10.0,0.0,1.0,Coronavirus
+Germany,2020-02-27,9,2,2020,19.0,0.0,1.0,Coronavirus
+Germany,2020-02-28,9,2,2020,2.0,0.0,0.0,Coronavirus
+Germany,2020-02-29,9,2,2020,31.0,0.0,0.0,Coronavirus
+Germany,2020-03-01,9,3,2020,51.0,0.0,0.0,Coronavirus
+Germany,2020-03-02,10,3,2020,29.0,0.0,0.0,Coronavirus
+Germany,2020-03-03,10,3,2020,37.0,0.0,0.0,Coronavirus
+Greece,2020-02-26,9,2,2020,1.0,0.0,0.0,Coronavirus
+Greece,2020-02-27,9,2,2020,2.0,0.0,0.0,Coronavirus
+Greece,2020-02-28,9,2,2020,1.0,0.0,0.0,Coronavirus
+Greece,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Greece,2020-03-01,9,3,2020,3.0,0.0,0.0,Coronavirus
+Greece,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Greece,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Hong Kong,2020-01-23,4,1,2020,2.0,0.0,0.0,Coronavirus
+Hong Kong,2020-01-24,4,1,2020,0.0,0.0,0.0,Coronavirus
+Hong Kong,2020-01-25,4,1,2020,3.0,0.0,0.0,Coronavirus
+Hong Kong,2020-01-26,4,1,2020,3.0,0.0,0.0,Coronavirus
+Hong Kong,2020-01-27,5,1,2020,0.0,0.0,0.0,Coronavirus
+Hong Kong,2020-01-28,5,1,2020,0.0,0.0,0.0,Coronavirus
+Hong Kong,2020-01-29,5,1,2020,2.0,0.0,0.0,Coronavirus
+Hong Kong,2020-01-30,5,1,2020,2.0,0.0,0.0,Coronavirus
+Hong Kong,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-01,5,2,2020,1.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-02,5,2,2020,1.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-04,6,2,2020,1.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-05,6,2,2020,3.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-06,6,2,2020,3.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-07,6,2,2020,1.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-08,6,2,2020,1.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-09,6,2,2020,3.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-10,7,2,2020,9.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-11,7,2,2020,11.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-12,7,2,2020,1.0,0.0,1.0,Coronavirus
+Hong Kong,2020-02-13,7,2,2020,3.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-14,7,2,2020,3.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-16,7,2,2020,1.0,0.0,1.0,Coronavirus
+Hong Kong,2020-02-17,8,2,2020,3.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-18,8,2,2020,2.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-19,8,2,2020,1.0,1.0,3.0,Coronavirus
+Hong Kong,2020-02-20,8,2,2020,5.0,0.0,1.0,Coronavirus
+Hong Kong,2020-02-22,8,2,2020,1.0,0.0,1.0,Coronavirus
+Hong Kong,2020-02-23,8,2,2020,5.0,0.0,5.0,Coronavirus
+Hong Kong,2020-02-24,9,2,2020,5.0,0.0,8.0,Coronavirus
+Hong Kong,2020-02-25,9,2,2020,5.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-26,9,2,2020,7.0,0.0,5.0,Coronavirus
+Hong Kong,2020-02-27,9,2,2020,1.0,0.0,0.0,Coronavirus
+Hong Kong,2020-02-28,9,2,2020,2.0,0.0,6.0,Coronavirus
+Hong Kong,2020-02-29,9,2,2020,1.0,0.0,3.0,Coronavirus
+Hong Kong,2020-03-01,9,3,2020,1.0,0.0,3.0,Coronavirus
+Hong Kong,2020-03-02,10,3,2020,4.0,0.0,0.0,Coronavirus
+Hong Kong,2020-03-03,10,3,2020,0.0,0.0,1.0,Coronavirus
+Iceland,2020-02-28,9,2,2020,1.0,0.0,0.0,Coronavirus
+Iceland,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Iceland,2020-03-01,9,3,2020,2.0,0.0,0.0,Coronavirus
+Iceland,2020-03-02,10,3,2020,3.0,0.0,0.0,Coronavirus
+Iceland,2020-03-03,10,3,2020,5.0,0.0,0.0,Coronavirus
+India,2020-01-30,5,1,2020,1.0,0.0,0.0,Coronavirus
+India,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-02,5,2,2020,1.0,0.0,0.0,Coronavirus
+India,2020-02-03,6,2,2020,1.0,0.0,0.0,Coronavirus
+India,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-16,7,2,2020,0.0,0.0,3.0,Coronavirus
+India,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+India,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+India,2020-03-02,10,3,2020,2.0,0.0,0.0,Coronavirus
+India,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Indonesia,2020-03-02,10,3,2020,2.0,0.0,0.0,Coronavirus
+Indonesia,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Iran,2020-02-19,8,2,2020,2.0,2.0,0.0,Coronavirus
+Iran,2020-02-20,8,2,2020,3.0,0.0,0.0,Coronavirus
+Iran,2020-02-21,8,2,2020,13.0,2.0,0.0,Coronavirus
+Iran,2020-02-22,8,2,2020,10.0,1.0,0.0,Coronavirus
+Iran,2020-02-23,8,2,2020,15.0,3.0,0.0,Coronavirus
+Iran,2020-02-24,9,2,2020,18.0,4.0,0.0,Coronavirus
+Iran,2020-02-25,9,2,2020,34.0,4.0,0.0,Coronavirus
+Iran,2020-02-26,9,2,2020,44.0,3.0,49.0,Coronavirus
+Iran,2020-02-27,9,2,2020,106.0,7.0,0.0,Coronavirus
+Iran,2020-02-28,9,2,2020,143.0,8.0,24.0,Coronavirus
+Iran,2020-02-29,9,2,2020,205.0,9.0,50.0,Coronavirus
+Iran,2020-03-01,9,3,2020,385.0,11.0,52.0,Coronavirus
+Iran,2020-03-02,10,3,2020,523.0,12.0,116.0,Coronavirus
+Iran,2020-03-03,10,3,2020,835.0,11.0,0.0,Coronavirus
+Iraq,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Iraq,2020-02-24,9,2,2020,1.0,0.0,0.0,Coronavirus
+Iraq,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Iraq,2020-02-26,9,2,2020,4.0,0.0,0.0,Coronavirus
+Iraq,2020-02-27,9,2,2020,2.0,0.0,0.0,Coronavirus
+Iraq,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Iraq,2020-02-29,9,2,2020,6.0,0.0,0.0,Coronavirus
+Iraq,2020-03-01,9,3,2020,6.0,0.0,0.0,Coronavirus
+Iraq,2020-03-02,10,3,2020,7.0,0.0,0.0,Coronavirus
+Iraq,2020-03-03,10,3,2020,6.0,0.0,0.0,Coronavirus
+Ireland,2020-02-28,9,2,2020,1.0,0.0,0.0,Coronavirus
+Ireland,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Ireland,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Ireland,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Ireland,2020-03-03,10,3,2020,1.0,0.0,0.0,Coronavirus
+Israel,2020-02-21,8,2,2020,1.0,0.0,0.0,Coronavirus
+Israel,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Israel,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Israel,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Israel,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Israel,2020-02-26,9,2,2020,2.0,0.0,0.0,Coronavirus
+Israel,2020-02-27,9,2,2020,1.0,0.0,1.0,Coronavirus
+Israel,2020-02-28,9,2,2020,1.0,0.0,0.0,Coronavirus
+Israel,2020-02-29,9,2,2020,3.0,0.0,0.0,Coronavirus
+Israel,2020-03-01,9,3,2020,3.0,0.0,0.0,Coronavirus
+Israel,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Israel,2020-03-03,10,3,2020,2.0,0.0,0.0,Coronavirus
+Italy,2020-01-30,5,1,2020,2.0,0.0,0.0,Coronavirus
+Italy,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-07,6,2,2020,1.0,0.0,0.0,Coronavirus
+Italy,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Italy,2020-02-21,8,2,2020,17.0,1.0,0.0,Coronavirus
+Italy,2020-02-22,8,2,2020,42.0,1.0,1.0,Coronavirus
+Italy,2020-02-23,8,2,2020,93.0,1.0,1.0,Coronavirus
+Italy,2020-02-25,9,2,2020,93.0,3.0,0.0,Coronavirus
+Italy,2020-02-26,9,2,2020,131.0,2.0,2.0,Coronavirus
+Italy,2020-02-27,9,2,2020,202.0,5.0,42.0,Coronavirus
+Italy,2020-02-28,9,2,2020,233.0,4.0,1.0,Coronavirus
+Italy,2020-02-29,9,2,2020,240.0,8.0,0.0,Coronavirus
+Italy,2020-03-01,9,3,2020,566.0,5.0,37.0,Coronavirus
+Italy,2020-03-02,10,3,2020,342.0,18.0,66.0,Coronavirus
+Italy,2020-03-03,10,3,2020,466.0,27.0,11.0,Coronavirus
+Japan,2020-01-22,4,1,2020,1.0,0.0,0.0,Coronavirus
+Japan,2020-01-24,4,1,2020,1.0,0.0,0.0,Coronavirus
+Japan,2020-01-25,4,1,2020,0.0,0.0,0.0,Coronavirus
+Japan,2020-01-26,4,1,2020,2.0,0.0,1.0,Coronavirus
+Japan,2020-01-27,5,1,2020,0.0,0.0,0.0,Coronavirus
+Japan,2020-01-28,5,1,2020,3.0,0.0,0.0,Coronavirus
+Japan,2020-01-29,5,1,2020,4.0,0.0,0.0,Coronavirus
+Japan,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+Japan,2020-01-31,5,1,2020,4.0,0.0,0.0,Coronavirus
+Japan,2020-02-01,5,2,2020,3.0,0.0,0.0,Coronavirus
+Japan,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Japan,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Japan,2020-02-04,6,2,2020,2.0,0.0,0.0,Coronavirus
+Japan,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Japan,2020-02-06,6,2,2020,23.0,0.0,0.0,Coronavirus
+Japan,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Japan,2020-02-09,6,2,2020,1.0,0.0,0.0,Coronavirus
+Japan,2020-02-10,7,2,2020,0.0,0.0,3.0,Coronavirus
+Japan,2020-02-11,7,2,2020,0.0,0.0,5.0,Coronavirus
+Japan,2020-02-12,7,2,2020,2.0,0.0,0.0,Coronavirus
+Japan,2020-02-13,7,2,2020,0.0,1.0,0.0,Coronavirus
+Japan,2020-02-14,7,2,2020,1.0,0.0,0.0,Coronavirus
+Japan,2020-02-15,7,2,2020,14.0,0.0,3.0,Coronavirus
+Japan,2020-02-16,7,2,2020,16.0,0.0,0.0,Coronavirus
+Japan,2020-02-17,8,2,2020,7.0,0.0,0.0,Coronavirus
+Japan,2020-02-18,8,2,2020,8.0,0.0,1.0,Coronavirus
+Japan,2020-02-19,8,2,2020,10.0,0.0,5.0,Coronavirus
+Japan,2020-02-20,8,2,2020,10.0,0.0,0.0,Coronavirus
+Japan,2020-02-21,8,2,2020,11.0,0.0,4.0,Coronavirus
+Japan,2020-02-22,8,2,2020,17.0,0.0,0.0,Coronavirus
+Japan,2020-02-23,8,2,2020,25.0,0.0,0.0,Coronavirus
+Japan,2020-02-24,9,2,2020,12.0,0.0,0.0,Coronavirus
+Japan,2020-02-25,9,2,2020,11.0,0.0,0.0,Coronavirus
+Japan,2020-02-26,9,2,2020,19.0,1.0,0.0,Coronavirus
+Japan,2020-02-27,9,2,2020,25.0,2.0,0.0,Coronavirus
+Japan,2020-02-28,9,2,2020,14.0,0.0,0.0,Coronavirus
+Japan,2020-02-29,9,2,2020,13.0,1.0,10.0,Coronavirus
+Japan,2020-03-01,9,3,2020,15.0,1.0,0.0,Coronavirus
+Japan,2020-03-02,10,3,2020,18.0,0.0,0.0,Coronavirus
+Japan,2020-03-03,10,3,2020,19.0,0.0,11.0,Coronavirus
+Jordan,2020-03-03,10,3,2020,1.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-01-22,4,1,2020,1.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-01-23,4,1,2020,0.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-01-24,4,1,2020,1.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-01-25,4,1,2020,1.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-01-26,4,1,2020,0.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-01-27,5,1,2020,1.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-01-28,5,1,2020,0.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-01-29,5,1,2020,0.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-01-30,5,1,2020,2.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-01-31,5,1,2020,5.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-01,5,2,2020,3.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-04,6,2,2020,1.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-05,6,2,2020,3.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-06,6,2,2020,4.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-07,6,2,2020,1.0,0.0,1.0,Coronavirus
+"Korea, Republic of",2020-02-08,6,2,2020,1.0,0.0,2.0,Coronavirus
+"Korea, Republic of",2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-10,7,2,2020,2.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-11,7,2,2020,1.0,0.0,1.0,Coronavirus
+"Korea, Republic of",2020-02-12,7,2,2020,0.0,0.0,3.0,Coronavirus
+"Korea, Republic of",2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-15,7,2,2020,0.0,0.0,2.0,Coronavirus
+"Korea, Republic of",2020-02-16,7,2,2020,1.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-17,8,2,2020,1.0,0.0,1.0,Coronavirus
+"Korea, Republic of",2020-02-18,8,2,2020,1.0,0.0,2.0,Coronavirus
+"Korea, Republic of",2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-20,8,2,2020,73.0,1.0,4.0,Coronavirus
+"Korea, Republic of",2020-02-21,8,2,2020,100.0,1.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-22,8,2,2020,229.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-23,8,2,2020,169.0,4.0,2.0,Coronavirus
+"Korea, Republic of",2020-02-24,9,2,2020,231.0,2.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-25,9,2,2020,144.0,2.0,4.0,Coronavirus
+"Korea, Republic of",2020-02-26,9,2,2020,284.0,2.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-27,9,2,2020,505.0,1.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-28,9,2,2020,571.0,0.0,0.0,Coronavirus
+"Korea, Republic of",2020-02-29,9,2,2020,813.0,3.0,5.0,Coronavirus
+"Korea, Republic of",2020-03-01,9,3,2020,586.0,1.0,3.0,Coronavirus
+"Korea, Republic of",2020-03-02,10,3,2020,599.0,11.0,0.0,Coronavirus
+"Korea, Republic of",2020-03-03,10,3,2020,851.0,0.0,0.0,Coronavirus
+Kuwait,2020-02-24,9,2,2020,1.0,0.0,0.0,Coronavirus
+Kuwait,2020-02-25,9,2,2020,10.0,0.0,0.0,Coronavirus
+Kuwait,2020-02-26,9,2,2020,15.0,0.0,0.0,Coronavirus
+Kuwait,2020-02-27,9,2,2020,17.0,0.0,0.0,Coronavirus
+Kuwait,2020-02-28,9,2,2020,2.0,0.0,0.0,Coronavirus
+Kuwait,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Kuwait,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Kuwait,2020-03-02,10,3,2020,11.0,0.0,0.0,Coronavirus
+Kuwait,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Latvia,2020-03-02,10,3,2020,1.0,0.0,0.0,Coronavirus
+Latvia,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Lebanon,2020-02-21,8,2,2020,1.0,0.0,0.0,Coronavirus
+Lebanon,2020-02-22,8,2,2020,1.0,0.0,0.0,Coronavirus
+Lebanon,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Lebanon,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Lebanon,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Lebanon,2020-02-26,9,2,2020,1.0,0.0,0.0,Coronavirus
+Lebanon,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Lebanon,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Lebanon,2020-02-29,9,2,2020,2.0,0.0,0.0,Coronavirus
+Lebanon,2020-03-01,9,3,2020,6.0,0.0,0.0,Coronavirus
+Lebanon,2020-03-02,10,3,2020,3.0,0.0,0.0,Coronavirus
+Lebanon,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Lithuania,2020-02-28,9,2,2020,1.0,0.0,0.0,Coronavirus
+Lithuania,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Lithuania,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Lithuania,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Lithuania,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Luxembourg,2020-02-29,9,2,2020,1.0,0.0,0.0,Coronavirus
+Luxembourg,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Luxembourg,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Luxembourg,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-01-23,4,1,2020,2.0,0.0,0.0,Coronavirus
+Macau,2020-01-24,4,1,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-01-25,4,1,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-01-26,4,1,2020,1.0,0.0,0.0,Coronavirus
+Macau,2020-01-27,5,1,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-01-28,5,1,2020,1.0,0.0,0.0,Coronavirus
+Macau,2020-01-29,5,1,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-02,5,2,2020,1.0,0.0,0.0,Coronavirus
+Macau,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-04,6,2,2020,2.0,0.0,0.0,Coronavirus
+Macau,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-06,6,2,2020,0.0,0.0,1.0,Coronavirus
+Macau,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-12,7,2,2020,0.0,0.0,1.0,Coronavirus
+Macau,2020-02-13,7,2,2020,0.0,0.0,1.0,Coronavirus
+Macau,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-16,7,2,2020,0.0,0.0,2.0,Coronavirus
+Macau,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-20,8,2,2020,0.0,0.0,1.0,Coronavirus
+Macau,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-25,9,2,2020,0.0,0.0,1.0,Coronavirus
+Macau,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-27,9,2,2020,0.0,0.0,1.0,Coronavirus
+Macau,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Macau,2020-03-03,10,3,2020,0.0,0.0,1.0,Coronavirus
+Malaysia,2020-01-23,4,1,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-01-25,4,1,2020,3.0,0.0,0.0,Coronavirus
+Malaysia,2020-01-26,4,1,2020,1.0,0.0,0.0,Coronavirus
+Malaysia,2020-01-27,5,1,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-01-28,5,1,2020,3.0,0.0,0.0,Coronavirus
+Malaysia,2020-01-29,5,1,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-01-30,5,1,2020,1.0,0.0,0.0,Coronavirus
+Malaysia,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-04,6,2,2020,2.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-05,6,2,2020,2.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-07,6,2,2020,0.0,0.0,1.0,Coronavirus
+Malaysia,2020-02-08,6,2,2020,4.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-10,7,2,2020,2.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-11,7,2,2020,0.0,0.0,2.0,Coronavirus
+Malaysia,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-13,7,2,2020,1.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-15,7,2,2020,3.0,0.0,4.0,Coronavirus
+Malaysia,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-18,8,2,2020,0.0,0.0,6.0,Coronavirus
+Malaysia,2020-02-19,8,2,2020,0.0,0.0,2.0,Coronavirus
+Malaysia,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-24,9,2,2020,0.0,0.0,3.0,Coronavirus
+Malaysia,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-27,9,2,2020,1.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-02-29,9,2,2020,2.0,0.0,0.0,Coronavirus
+Malaysia,2020-03-01,9,3,2020,4.0,0.0,0.0,Coronavirus
+Malaysia,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Malaysia,2020-03-03,10,3,2020,7.0,0.0,4.0,Coronavirus
+Mexico,2020-01-23,4,1,2020,0.0,0.0,0.0,Coronavirus
+Mexico,2020-02-28,9,2,2020,1.0,0.0,0.0,Coronavirus
+Mexico,2020-02-29,9,2,2020,3.0,0.0,0.0,Coronavirus
+Mexico,2020-03-01,9,3,2020,1.0,0.0,0.0,Coronavirus
+Mexico,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Mexico,2020-03-03,10,3,2020,0.0,0.0,1.0,Coronavirus
+Monaco,2020-02-29,9,2,2020,1.0,0.0,0.0,Coronavirus
+Monaco,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Monaco,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Monaco,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Morocco,2020-03-02,10,3,2020,1.0,0.0,0.0,Coronavirus
+Morocco,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-01-25,4,1,2020,1.0,0.0,0.0,Coronavirus
+Nepal,2020-01-26,4,1,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-01-27,5,1,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-01-28,5,1,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-01-29,5,1,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-12,7,2,2020,0.0,0.0,1.0,Coronavirus
+Nepal,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Nepal,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Netherlands,2020-02-27,9,2,2020,1.0,0.0,0.0,Coronavirus
+Netherlands,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Netherlands,2020-02-29,9,2,2020,5.0,0.0,0.0,Coronavirus
+Netherlands,2020-03-01,9,3,2020,4.0,0.0,0.0,Coronavirus
+Netherlands,2020-03-02,10,3,2020,8.0,0.0,0.0,Coronavirus
+Netherlands,2020-03-03,10,3,2020,6.0,0.0,0.0,Coronavirus
+New Zealand,2020-02-28,9,2,2020,1.0,0.0,0.0,Coronavirus
+New Zealand,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+New Zealand,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+New Zealand,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+New Zealand,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Nigeria,2020-02-28,9,2,2020,1.0,0.0,0.0,Coronavirus
+Nigeria,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Nigeria,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Nigeria,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Nigeria,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Norway,2020-02-26,9,2,2020,1.0,0.0,0.0,Coronavirus
+Norway,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Norway,2020-02-28,9,2,2020,5.0,0.0,0.0,Coronavirus
+Norway,2020-02-29,9,2,2020,9.0,0.0,0.0,Coronavirus
+Norway,2020-03-01,9,3,2020,4.0,0.0,0.0,Coronavirus
+Norway,2020-03-02,10,3,2020,6.0,0.0,0.0,Coronavirus
+Norway,2020-03-03,10,3,2020,7.0,0.0,0.0,Coronavirus
+Oman,2020-02-24,9,2,2020,2.0,0.0,0.0,Coronavirus
+Oman,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Oman,2020-02-26,9,2,2020,2.0,0.0,0.0,Coronavirus
+Oman,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Oman,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Oman,2020-02-29,9,2,2020,2.0,0.0,1.0,Coronavirus
+Oman,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Oman,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Oman,2020-03-03,10,3,2020,6.0,0.0,1.0,Coronavirus
+Others,2020-02-07,6,2,2020,61.0,0.0,0.0,Coronavirus
+Others,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Others,2020-02-09,6,2,2020,64.0,0.0,0.0,Coronavirus
+Others,2020-02-10,7,2,2020,71.0,0.0,0.0,Coronavirus
+Others,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Others,2020-02-12,7,2,2020,40.0,0.0,0.0,Coronavirus
+Others,2020-02-13,7,2,2020,43.0,0.0,0.0,Coronavirus
+Others,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Others,2020-02-15,7,2,2020,67.0,0.0,0.0,Coronavirus
+Others,2020-02-16,7,2,2020,70.0,0.0,0.0,Coronavirus
+Others,2020-02-17,8,2,2020,99.0,0.0,0.0,Coronavirus
+Others,2020-02-18,8,2,2020,88.0,0.0,0.0,Coronavirus
+Others,2020-02-19,8,2,2020,79.0,0.0,1.0,Coronavirus
+Others,2020-02-20,8,2,2020,13.0,2.0,0.0,Coronavirus
+Others,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Others,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Others,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Others,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Others,2020-02-26,9,2,2020,14.0,1.0,10.0,Coronavirus
+Others,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Others,2020-02-28,9,2,2020,0.0,2.0,0.0,Coronavirus
+Others,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Others,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Others,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Others,2020-03-03,10,3,2020,1.0,0.0,0.0,Coronavirus
+Pakistan,2020-02-26,9,2,2020,2.0,0.0,0.0,Coronavirus
+Pakistan,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Pakistan,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Pakistan,2020-02-29,9,2,2020,2.0,0.0,0.0,Coronavirus
+Pakistan,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Pakistan,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Pakistan,2020-03-03,10,3,2020,1.0,0.0,0.0,Coronavirus
+Philippines,2020-01-23,4,1,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-01-30,5,1,2020,1.0,0.0,0.0,Coronavirus
+Philippines,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-01,5,2,2020,1.0,1.0,0.0,Coronavirus
+Philippines,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-07,6,2,2020,1.0,0.0,0.0,Coronavirus
+Philippines,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-12,7,2,2020,0.0,0.0,1.0,Coronavirus
+Philippines,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Philippines,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Portugal,2020-03-02,10,3,2020,2.0,0.0,0.0,Coronavirus
+Portugal,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Qatar,2020-02-29,9,2,2020,1.0,0.0,0.0,Coronavirus
+Qatar,2020-03-01,9,3,2020,2.0,0.0,0.0,Coronavirus
+Qatar,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Qatar,2020-03-03,10,3,2020,4.0,0.0,0.0,Coronavirus
+Romania,2020-02-26,9,2,2020,1.0,0.0,0.0,Coronavirus
+Romania,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Romania,2020-02-28,9,2,2020,2.0,0.0,0.0,Coronavirus
+Romania,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Romania,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Romania,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Romania,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-01-31,5,1,2020,2.0,0.0,0.0,Coronavirus
+Russia,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-12,7,2,2020,0.0,0.0,2.0,Coronavirus
+Russia,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Russia,2020-03-02,10,3,2020,1.0,0.0,0.0,Coronavirus
+Russia,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+San Marino,2020-02-27,9,2,2020,1.0,0.0,0.0,Coronavirus
+San Marino,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+San Marino,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+San Marino,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+San Marino,2020-03-02,10,3,2020,7.0,0.0,0.0,Coronavirus
+San Marino,2020-03-03,10,3,2020,2.0,1.0,0.0,Coronavirus
+Saudi Arabia,2020-03-02,10,3,2020,1.0,0.0,0.0,Coronavirus
+Saudi Arabia,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Senegal,2020-03-02,10,3,2020,1.0,0.0,0.0,Coronavirus
+Senegal,2020-03-03,10,3,2020,1.0,0.0,0.0,Coronavirus
+Singapore,2020-01-23,4,1,2020,1.0,0.0,0.0,Coronavirus
+Singapore,2020-01-24,4,1,2020,2.0,0.0,0.0,Coronavirus
+Singapore,2020-01-25,4,1,2020,0.0,0.0,0.0,Coronavirus
+Singapore,2020-01-26,4,1,2020,1.0,0.0,0.0,Coronavirus
+Singapore,2020-01-27,5,1,2020,1.0,0.0,0.0,Coronavirus
+Singapore,2020-01-28,5,1,2020,2.0,0.0,0.0,Coronavirus
+Singapore,2020-01-29,5,1,2020,3.0,0.0,0.0,Coronavirus
+Singapore,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+Singapore,2020-01-31,5,1,2020,3.0,0.0,0.0,Coronavirus
+Singapore,2020-02-01,5,2,2020,7.0,0.0,0.0,Coronavirus
+Singapore,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Singapore,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Singapore,2020-02-04,6,2,2020,6.0,0.0,0.0,Coronavirus
+Singapore,2020-02-05,6,2,2020,4.0,0.0,0.0,Coronavirus
+Singapore,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Singapore,2020-02-07,6,2,2020,2.0,0.0,0.0,Coronavirus
+Singapore,2020-02-08,6,2,2020,7.0,0.0,0.0,Coronavirus
+Singapore,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Singapore,2020-02-10,7,2,2020,2.0,0.0,0.0,Coronavirus
+Singapore,2020-02-11,7,2,2020,2.0,0.0,2.0,Coronavirus
+Singapore,2020-02-12,7,2,2020,3.0,0.0,6.0,Coronavirus
+Singapore,2020-02-13,7,2,2020,8.0,0.0,0.0,Coronavirus
+Singapore,2020-02-14,7,2,2020,9.0,0.0,2.0,Coronavirus
+Singapore,2020-02-15,7,2,2020,5.0,0.0,1.0,Coronavirus
+Singapore,2020-02-16,7,2,2020,3.0,0.0,0.0,Coronavirus
+Singapore,2020-02-17,8,2,2020,2.0,0.0,6.0,Coronavirus
+Singapore,2020-02-18,8,2,2020,4.0,0.0,5.0,Coronavirus
+Singapore,2020-02-19,8,2,2020,3.0,0.0,5.0,Coronavirus
+Singapore,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Singapore,2020-02-21,8,2,2020,1.0,0.0,3.0,Coronavirus
+Singapore,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Singapore,2020-02-23,8,2,2020,4.0,0.0,14.0,Coronavirus
+Singapore,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Singapore,2020-02-25,9,2,2020,2.0,0.0,2.0,Coronavirus
+Singapore,2020-02-26,9,2,2020,2.0,0.0,9.0,Coronavirus
+Singapore,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Singapore,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Singapore,2020-02-29,9,2,2020,9.0,0.0,10.0,Coronavirus
+Singapore,2020-03-01,9,3,2020,4.0,0.0,0.0,Coronavirus
+Singapore,2020-03-02,10,3,2020,2.0,0.0,6.0,Coronavirus
+Singapore,2020-03-03,10,3,2020,2.0,0.0,0.0,Coronavirus
+Spain,2020-02-01,5,2,2020,1.0,0.0,0.0,Coronavirus
+Spain,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-10,7,2,2020,1.0,0.0,0.0,Coronavirus
+Spain,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-15,7,2,2020,0.0,0.0,2.0,Coronavirus
+Spain,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Spain,2020-02-25,9,2,2020,4.0,0.0,0.0,Coronavirus
+Spain,2020-02-26,9,2,2020,7.0,0.0,0.0,Coronavirus
+Spain,2020-02-27,9,2,2020,2.0,0.0,0.0,Coronavirus
+Spain,2020-02-28,9,2,2020,17.0,0.0,0.0,Coronavirus
+Spain,2020-02-29,9,2,2020,13.0,0.0,0.0,Coronavirus
+Spain,2020-03-01,9,3,2020,39.0,0.0,0.0,Coronavirus
+Spain,2020-03-02,10,3,2020,36.0,0.0,0.0,Coronavirus
+Spain,2020-03-03,10,3,2020,45.0,1.0,0.0,Coronavirus
+Sri Lanka,2020-01-27,5,1,2020,1.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-01-28,5,1,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-01-29,5,1,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-01,5,2,2020,0.0,0.0,1.0,Coronavirus
+Sri Lanka,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-08,6,2,2020,0.0,0.0,1.0,Coronavirus
+Sri Lanka,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Sri Lanka,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-01-31,5,1,2020,1.0,0.0,0.0,Coronavirus
+Sweden,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-26,9,2,2020,1.0,0.0,0.0,Coronavirus
+Sweden,2020-02-27,9,2,2020,5.0,0.0,0.0,Coronavirus
+Sweden,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Sweden,2020-02-29,9,2,2020,5.0,0.0,0.0,Coronavirus
+Sweden,2020-03-01,9,3,2020,2.0,0.0,0.0,Coronavirus
+Sweden,2020-03-02,10,3,2020,1.0,0.0,0.0,Coronavirus
+Sweden,2020-03-03,10,3,2020,6.0,0.0,0.0,Coronavirus
+Switzerland,2020-02-25,9,2,2020,1.0,0.0,0.0,Coronavirus
+Switzerland,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Switzerland,2020-02-27,9,2,2020,7.0,0.0,0.0,Coronavirus
+Switzerland,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Switzerland,2020-02-29,9,2,2020,10.0,0.0,0.0,Coronavirus
+Switzerland,2020-03-01,9,3,2020,9.0,0.0,0.0,Coronavirus
+Switzerland,2020-03-02,10,3,2020,15.0,0.0,0.0,Coronavirus
+Switzerland,2020-03-03,10,3,2020,14.0,0.0,2.0,Coronavirus
+Taiwan,2020-01-23,4,1,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-01-24,4,1,2020,2.0,0.0,0.0,Coronavirus
+Taiwan,2020-01-25,4,1,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-01-26,4,1,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-01-27,5,1,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-01-28,5,1,2020,3.0,0.0,0.0,Coronavirus
+Taiwan,2020-01-29,5,1,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-01-30,5,1,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-01-31,5,1,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-04,6,2,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-06,6,2,2020,5.0,0.0,1.0,Coronavirus
+Taiwan,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-08,6,2,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-09,6,2,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-14,7,2,2020,0.0,0.0,1.0,Coronavirus
+Taiwan,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-16,7,2,2020,2.0,1.0,0.0,Coronavirus
+Taiwan,2020-02-17,8,2,2020,2.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-19,8,2,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-20,8,2,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-21,8,2,2020,2.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-23,8,2,2020,2.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-24,9,2,2020,2.0,0.0,3.0,Coronavirus
+Taiwan,2020-02-25,9,2,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-26,9,2,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Taiwan,2020-02-28,9,2,2020,2.0,0.0,1.0,Coronavirus
+Taiwan,2020-02-29,9,2,2020,5.0,0.0,3.0,Coronavirus
+Taiwan,2020-03-01,9,3,2020,1.0,0.0,0.0,Coronavirus
+Taiwan,2020-03-02,10,3,2020,1.0,0.0,3.0,Coronavirus
+Taiwan,2020-03-03,10,3,2020,1.0,0.0,0.0,Coronavirus
+Thailand,2020-01-22,4,1,2020,2.0,0.0,0.0,Coronavirus
+Thailand,2020-01-23,4,1,2020,1.0,0.0,0.0,Coronavirus
+Thailand,2020-01-24,4,1,2020,1.0,0.0,0.0,Coronavirus
+Thailand,2020-01-25,4,1,2020,2.0,0.0,0.0,Coronavirus
+Thailand,2020-01-26,4,1,2020,1.0,0.0,2.0,Coronavirus
+Thailand,2020-01-27,5,1,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-01-28,5,1,2020,6.0,0.0,3.0,Coronavirus
+Thailand,2020-01-29,5,1,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-01-31,5,1,2020,5.0,0.0,0.0,Coronavirus
+Thailand,2020-02-01,5,2,2020,0.0,0.0,2.0,Coronavirus
+Thailand,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-04,6,2,2020,6.0,0.0,0.0,Coronavirus
+Thailand,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-08,6,2,2020,7.0,0.0,5.0,Coronavirus
+Thailand,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-10,7,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-11,7,2,2020,1.0,0.0,0.0,Coronavirus
+Thailand,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-13,7,2,2020,0.0,0.0,2.0,Coronavirus
+Thailand,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-16,7,2,2020,1.0,0.0,2.0,Coronavirus
+Thailand,2020-02-17,8,2,2020,1.0,0.0,1.0,Coronavirus
+Thailand,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-21,8,2,2020,0.0,0.0,2.0,Coronavirus
+Thailand,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-23,8,2,2020,0.0,0.0,4.0,Coronavirus
+Thailand,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-25,9,2,2020,2.0,0.0,1.0,Coronavirus
+Thailand,2020-02-26,9,2,2020,3.0,0.0,0.0,Coronavirus
+Thailand,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Thailand,2020-02-28,9,2,2020,1.0,0.0,6.0,Coronavirus
+Thailand,2020-02-29,9,2,2020,1.0,0.0,0.0,Coronavirus
+Thailand,2020-03-01,9,3,2020,0.0,1.0,0.0,Coronavirus
+Thailand,2020-03-02,10,3,2020,1.0,0.0,3.0,Coronavirus
+Thailand,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+The former Yugoslav Republic of Macedonia,2020-02-26,9,2,2020,1.0,0.0,0.0,Coronavirus
+The former Yugoslav Republic of Macedonia,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+The former Yugoslav Republic of Macedonia,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+The former Yugoslav Republic of Macedonia,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+The former Yugoslav Republic of Macedonia,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+The former Yugoslav Republic of Macedonia,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+The former Yugoslav Republic of Macedonia,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-01-22,4,1,2020,1.0,0.0,0.0,Coronavirus
+USA,2020-01-23,4,1,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-01-24,4,1,2020,1.0,0.0,0.0,Coronavirus
+USA,2020-01-25,4,1,2020,1.0,0.0,0.0,Coronavirus
+USA,2020-01-26,4,1,2020,2.0,0.0,0.0,Coronavirus
+USA,2020-01-27,5,1,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-01-28,5,1,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-01-29,5,1,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-01-30,5,1,2020,1.0,0.0,0.0,Coronavirus
+USA,2020-01-31,5,1,2020,1.0,0.0,0.0,Coronavirus
+USA,2020-02-01,5,2,2020,8.0,0.0,0.0,Coronavirus
+USA,2020-02-02,5,2,2020,1.0,0.0,0.0,Coronavirus
+USA,2020-02-03,6,2,2020,2.0,0.0,0.0,Coronavirus
+USA,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-06,6,2,2020,1.0,0.0,0.0,Coronavirus
+USA,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-09,6,2,2020,0.0,0.0,1.0,Coronavirus
+USA,2020-02-10,7,2,2020,0.0,0.0,2.0,Coronavirus
+USA,2020-02-11,7,2,2020,1.0,0.0,0.0,Coronavirus
+USA,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-13,7,2,2020,2.0,0.0,0.0,Coronavirus
+USA,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-21,8,2,2020,20.0,0.0,2.0,Coronavirus
+USA,2020-02-22,8,2,2020,18.0,0.0,0.0,Coronavirus
+USA,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+USA,2020-02-24,9,2,2020,36.0,0.0,0.0,Coronavirus
+USA,2020-02-25,9,2,2020,0.0,0.0,1.0,Coronavirus
+USA,2020-02-26,9,2,2020,6.0,0.0,0.0,Coronavirus
+USA,2020-02-27,9,2,2020,1.0,0.0,0.0,Coronavirus
+USA,2020-02-28,9,2,2020,2.0,0.0,1.0,Coronavirus
+USA,2020-02-29,9,2,2020,8.0,1.0,0.0,Coronavirus
+USA,2020-03-01,9,3,2020,6.0,0.0,0.0,Coronavirus
+USA,2020-03-02,10,3,2020,37.0,6.0,3.0,Coronavirus
+USA,2020-03-03,10,3,2020,23.0,1.0,1.0,Coronavirus
+Ukraine,2020-03-03,10,3,2020,1.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-01-29,5,1,2020,4.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-02,5,2,2020,1.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-08,6,2,2020,2.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-10,7,2,2020,1.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-11,7,2,2020,0.0,0.0,1.0,Coronavirus
+United Arab Emirates,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-15,7,2,2020,0.0,0.0,2.0,Coronavirus
+United Arab Emirates,2020-02-16,7,2,2020,1.0,0.0,1.0,Coronavirus
+United Arab Emirates,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-22,8,2,2020,4.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-02-28,9,2,2020,6.0,0.0,1.0,Coronavirus
+United Arab Emirates,2020-02-29,9,2,2020,2.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+United Arab Emirates,2020-03-03,10,3,2020,6.0,0.0,0.0,Coronavirus
+United Kingdom,2020-01-31,5,1,2020,2.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-01,5,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-03,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-06,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-07,6,2,2020,1.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-08,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-10,7,2,2020,5.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-11,7,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-12,7,2,2020,1.0,0.0,1.0,Coronavirus
+United Kingdom,2020-02-13,7,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-16,7,2,2020,0.0,0.0,7.0,Coronavirus
+United Kingdom,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-21,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-24,9,2,2020,4.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-25,9,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-27,9,2,2020,2.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-28,9,2,2020,5.0,0.0,0.0,Coronavirus
+United Kingdom,2020-02-29,9,2,2020,3.0,0.0,0.0,Coronavirus
+United Kingdom,2020-03-01,9,3,2020,13.0,0.0,0.0,Coronavirus
+United Kingdom,2020-03-02,10,3,2020,4.0,0.0,0.0,Coronavirus
+United Kingdom,2020-03-03,10,3,2020,11.0,0.0,0.0,Coronavirus
+Vietnam,2020-01-23,4,1,2020,2.0,0.0,0.0,Coronavirus
+Vietnam,2020-01-24,4,1,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-01-25,4,1,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-01-26,4,1,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-01-27,5,1,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-01-28,5,1,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-01-29,5,1,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-01-30,5,1,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-01-31,5,1,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-01,5,2,2020,4.0,0.0,1.0,Coronavirus
+Vietnam,2020-02-02,5,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-03,6,2,2020,2.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-04,6,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-05,6,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-06,6,2,2020,2.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-07,6,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-08,6,2,2020,3.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-09,6,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-10,7,2,2020,1.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-11,7,2,2020,1.0,0.0,5.0,Coronavirus
+Vietnam,2020-02-12,7,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-13,7,2,2020,1.0,0.0,1.0,Coronavirus
+Vietnam,2020-02-14,7,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-15,7,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-16,7,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-17,8,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-18,8,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-19,8,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-20,8,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-21,8,2,2020,0.0,0.0,7.0,Coronavirus
+Vietnam,2020-02-22,8,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-23,8,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-24,9,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-25,9,2,2020,0.0,0.0,2.0,Coronavirus
+Vietnam,2020-02-26,9,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-27,9,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-28,9,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-02-29,9,2,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-03-01,9,3,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-03-02,10,3,2020,0.0,0.0,0.0,Coronavirus
+Vietnam,2020-03-03,10,3,2020,0.0,0.0,0.0,Coronavirus

@@ -1,0 +1,1740 @@
+Country,Cases,Deaths,Year,Month,Day
+Algeria,5,0,2009,7,6
+Antigua and Barbuda,2,0,2009,7,6
+Argentina,2485,60,2009,7,6
+Australia,5298,10,2009,7,6
+Austria,19,0,2009,7,6
+Bahamas,7,0,2009,7,6
+Bahrain,15,0,2009,7,6
+Bangladesh,18,0,2009,7,6
+Barbados,12,0,2009,7,6
+Belgium,54,0,2009,7,6
+"Bermuda, UKOT",1,0,2009,7,6
+Bolivia,416,0,2009,7,6
+Bosnia and Hezegovina,1,0,2009,7,6
+Brazil,737,1,2009,7,6
+"British Virgin Islands, UKOT",2,0,2009,7,6
+Brunei Darussalam,124,0,2009,7,6
+Bulgaria,10,0,2009,7,6
+Cambodia,7,0,2009,7,6
+Canada,7983,25,2009,7,6
+Cap Verde,3,0,2009,7,6
+"Cayman Islands, UKOT",14,0,2009,7,6
+Chile,7376,14,2009,7,6
+China,2040,0,2009,7,6
+Colombia,118,2,2009,7,6
+Cook Island,1,0,2009,7,6
+Costa Rica,277,3,2009,7,6
+Cote d'Ivoire,2,0,2009,7,6
+Croatia,1,0,2009,7,6
+Cuba,85,0,2009,7,6
+Cyprus,109,0,2009,7,6
+Czech Republic,15,0,2009,7,6
+Denmark,66,0,2009,7,6
+Dominica,1,0,2009,7,6
+Dominican Republic,108,2,2009,7,6
+Ecuador,204,0,2009,7,6
+Egypt,78,0,2009,7,6
+El Salvador,319,0,2009,7,6
+Estonia,13,0,2009,7,6
+Ethiopia,3,0,2009,7,6
+Fiji,2,0,2009,7,6
+Finland,47,0,2009,7,6
+France,332,0,2009,7,6
+Germany,505,0,2009,7,6
+Greece,151,0,2009,7,6
+Guatemala ,286,2,2009,7,6
+Guyana,2,0,2009,7,6
+Honduras,123,1,2009,7,6
+Hungary,11,0,2009,7,6
+Iceland,4,0,2009,7,6
+India,129,0,2009,7,6
+Indonesia,20,0,2009,7,6
+"Iran, Islamic Republic",1,0,2009,7,6
+Iraq,12,0,2009,7,6
+Ireland,74,0,2009,7,6
+Israel,681,0,2009,7,6
+Italy,146,0,2009,7,6
+Jamaica,32,0,2009,7,6
+Japan,1790,0,2009,7,6
+Jordan,23,0,2009,7,6
+Kenya,15,0,2009,7,6
+"Korea, Republic of",202,0,2009,7,6
+Kuwait,35,0,2009,7,6
+Laos,5,0,2009,7,6
+Latvia,1,0,2009,7,6
+Lebanon,49,0,2009,7,6
+Libya,1,0,2009,7,6
+Lithuania,3,0,2009,7,6
+Luxembourg,6,0,2009,7,6
+Malaysia,112,0,2009,7,6
+Malta,24,0,2009,7,6
+Mauritius,1,0,2009,7,6
+Mexico,10262,119,2009,7,6
+Montenegro,10,0,2009,7,6
+Morocco,17,0,2009,7,6
+Myanmar,1,0,2009,7,6
+Nepal,5,0,2009,7,6
+Netherlands,155,0,2009,7,6
+New Zealand,1059,3,2009,7,6
+Nicaragua,321,0,2009,7,6
+Norway,41,0,2009,7,6
+Oman,4,0,2009,7,6
+Palau,1,0,2009,7,6
+Panama,417,0,2009,7,6
+Papua New Guinea,1,0,2009,7,6
+Paraguay,106,1,2009,7,6
+Peru,916,0,2009,7,6
+Philippines,1709,1,2009,7,6
+Poland,25,0,2009,7,6
+Portugal,42,0,2009,7,6
+Qatar,23,0,2009,7,6
+Romania,41,0,2009,7,6
+Russia,3,0,2009,7,6
+Saint Lucia,1,0,2009,7,6
+Samoa,1,0,2009,7,6
+Saudi Arabia,114,0,2009,7,6
+Serbia,15,0,2009,7,6
+Singapore,1055,0,2009,7,6
+Slovakia,18,0,2009,7,6
+Slovenia,14,0,2009,7,6
+South Africa,18,0,2009,7,6
+Spain,776,1,2009,7,6
+Sri Lanka,19,0,2009,7,6
+Suriname,11,0,2009,7,6
+Sweden,84,0,2009,7,6
+Switzerland,76,0,2009,7,6
+Syria,1,0,2009,7,6
+Thailand,2076,7,2009,7,6
+The former Yugoslav Republic of Macedonia,2,0,2009,7,6
+Trinidad and Tobago,65,0,2009,7,6
+Tunisia,5,0,2009,7,6
+Turkey,40,0,2009,7,6
+Uganda,1,0,2009,7,6
+Ukraine,1,0,2009,7,6
+United Arab Emirates,8,0,2009,7,6
+United Kingdom,7464,3,2009,7,6
+United States of America,33921,170,2009,7,6
+Uruguay,195,4,2009,7,6
+Vanuatu,2,0,2009,7,6
+Venezuela,206,0,2009,7,6
+Viet Nam,181,0,2009,7,6
+West Bank and Gaza Strip,60,0,2009,7,6
+Yemen,8,0,2009,7,6
+Algeria,5,0,2009,7,3
+Antigua and Barbuda,2,0,2009,7,3
+Argentina,1587,26,2009,7,3
+Australia,4568,9,2009,7,3
+Austria,15,0,2009,7,3
+Bahamas,6,0,2009,7,3
+Bahrain,15,0,2009,7,3
+Bangladesh,12,0,2009,7,3
+Barbados,12,0,2009,7,3
+Belgium,49,0,2009,7,3
+"Bermuda, UKOT",1,0,2009,7,3
+Bolivia,283,0,2009,7,3
+Bosnia and Hezegovina,1,0,2009,7,3
+Brazil,737,1,2009,7,3
+"British Virgin Islands, UKOT",2,0,2009,7,3
+Brunei Darussalam,85,0,2009,7,3
+Bulgaria,10,0,2009,7,3
+Cambodia,7,0,2009,7,3
+Canada,7983,25,2009,7,3
+Cap Verde,3,0,2009,7,3
+"Cayman Islands, UKOT",14,0,2009,7,3
+Chile,7376,14,2009,7,3
+China,1814,0,2009,7,3
+Colombia,101,2,2009,7,3
+Costa Rica*,227,2,2009,7,3
+Cote d'Ivoire,2,0,2009,7,3
+Cuba,73,0,2009,7,3
+Cyprus,70,0,2009,7,3
+Czech Republic,15,0,2009,7,3
+Denmark,63,0,2009,7,3
+Dominica,1,0,2009,7,3
+Dominican Republic,108,2,2009,7,3
+Ecuador,163,0,2009,7,3
+Egypt,67,0,2009,7,3
+El Salvador,253,0,2009,7,3
+Estonia,13,0,2009,7,3
+Ethiopia,3,0,2009,7,3
+Fiji,2,0,2009,7,3
+Finland,43,0,2009,7,3
+France,310,0,2009,7,3
+Germany,470,0,2009,7,3
+Greece,109,0,2009,7,3
+Guatemala ,254,2,2009,7,3
+Honduras,123,1,2009,7,3
+Hungary,11,0,2009,7,3
+Iceland,4,0,2009,7,3
+India,104,0,2009,7,3
+Indonesia,8,0,2009,7,3
+Iran,1,0,2009,7,3
+Iraq,11,0,2009,7,3
+Ireland,51,0,2009,7,3
+Israel,577,0,2009,7,3
+Italy,130,0,2009,7,3
+Jamaica,32,0,2009,7,3
+Japan,1446,0,2009,7,3
+Jordan,22,0,2009,7,3
+Kenya,12,0,2009,7,3
+"Korea, Republic of",202,0,2009,7,3
+Kuwait,35,0,2009,7,3
+Laos,3,0,2009,7,3
+Latvia,1,0,2009,7,3
+Lebanon,47,0,2009,7,3
+Lithuania,3,0,2009,7,3
+Luxembourg,4,0,2009,7,3
+Malaysia,112,0,2009,7,3
+Malta,2,0,2009,7,3
+Mauritius,1,0,2009,7,3
+Mexico,10262,119,2009,7,3
+Montenegro,9,0,2009,7,3
+Morocco,17,0,2009,7,3
+Myanmar,1,0,2009,7,3
+Nepal,5,0,2009,7,3
+Netherlands,154,0,2009,7,3
+New Zealand,912,0,2009,7,3
+Nicaragua,308,0,2009,7,3
+Norway,41,0,2009,7,3
+Oman,3,0,2009,7,3
+Palau,1,0,2009,7,3
+Panama,417,0,2009,7,3
+Papua New Guinea,1,0,2009,7,3
+Paraguay,103,0,2009,7,3
+Peru,538,0,2009,7,3
+Philippines,1709,1,2009,7,3
+Poland,19,0,2009,7,3
+Portugal,27,0,2009,7,3
+Qatar,10,0,2009,7,3
+Romania,36,0,2009,7,3
+Russia,3,0,2009,7,3
+Saint Lucia,1,0,2009,7,3
+Samoa,1,0,2009,7,3
+Saudi Arabia,89,0,2009,7,3
+Serbia,15,0,2009,7,3
+Singapore,878,0,2009,7,3
+Slovakia,18,0,2009,7,3
+Slovenia,5,0,2009,7,3
+South Africa,12,0,2009,7,3
+Spain,760,1,2009,7,3
+Sri Lanka,17,0,2009,7,3
+Suriname,11,0,2009,7,3
+Sweden,74,0,2009,7,3
+Switzerland,72,0,2009,7,3
+Thailand,1414,3,2009,7,3
+Trinidad and Tobago,53,0,2009,7,3
+Tunisia,3,0,2009,7,3
+Turkey,40,0,2009,7,3
+Uganda,1,0,2009,7,3
+Ukraine,1,0,2009,7,3
+United Arab Emirates,8,0,2009,7,3
+United Kingdom,7464,3,2009,7,3
+United States of America,33902,170,2009,7,3
+Uruguay,195,1,2009,7,3
+Vanuatu,2,0,2009,7,3
+Venezuela,204,0,2009,7,3
+Viet Nam,131,0,2009,7,3
+West Bank and Gaza Strip,30,0,2009,7,3
+Yemen,7,0,2009,7,3
+Algeria,2,0,2009,7,1
+Antigua and Barbuda,2,0,2009,7,1
+Argentina,1587,26,2009,7,1
+Australia,4090,7,2009,7,1
+Austria,15,0,2009,7,1
+Bahamas,6,0,2009,7,1
+Bahrain,15,0,2009,7,1
+Bangladesh,1,0,2009,7,1
+Barbados,10,0,2009,7,1
+Belgium,47,0,2009,7,1
+"Bermuda, UKOT",1,0,2009,7,1
+Bolivia,205,0,2009,7,1
+Brazil,680,1,2009,7,1
+"British Virgin Islands, UKOT",1,0,2009,7,1
+Brunei Darussalam,29,0,2009,7,1
+Bulgaria,10,0,2009,7,1
+Cambodia,6,0,2009,7,1
+Canada,7983,25,2009,7,1
+Cap Verde,3,0,2009,7,1
+"Cayman Islands, UKOT",13,0,2009,7,1
+Chile,6211,12,2009,7,1
+China,1518,0,2009,7,1
+Colombia,93,2,2009,7,1
+Costa Rica,279,2,2009,7,1
+Cote d'Ivoire,2,0,2009,7,1
+Cuba,46,0,2009,7,1
+Cyprus,48,0,2009,7,1
+Czech Republic,9,0,2009,7,1
+Denmark,55,0,2009,7,1
+Dominica,1,0,2009,7,1
+Dominican Republic,108,2,2009,7,1
+Ecuador,163,0,2009,7,1
+Egypt,67,0,2009,7,1
+El Salvador,226,0,2009,7,1
+Estonia,13,0,2009,7,1
+Ethiopia,2,0,2009,7,1
+Fiji,2,0,2009,7,1
+Finland,26,0,2009,7,1
+France,287,0,2009,7,1
+Germany,417,0,2009,7,1
+Greece,92,0,2009,7,1
+Guatemala ,254,2,2009,7,1
+Honduras,118,1,2009,7,1
+Hungary,10,0,2009,7,1
+Iceland,4,0,2009,7,1
+India,104,0,2009,7,1
+Indonesia,8,0,2009,7,1
+Iran,1,0,2009,7,1
+Iraq,11,0,2009,7,1
+Ireland,41,0,2009,7,1
+Israel,506,0,2009,7,1
+Italy,123,0,2009,7,1
+Jamaica,32,0,2009,7,1
+Japan,1266,0,2009,7,1
+Jordan,20,0,2009,7,1
+Kenya,1,0,2009,7,1
+"Korea, Republic of",202,0,2009,7,1
+Kuwait,34,0,2009,7,1
+Laos,3,0,2009,7,1
+Latvia,1,0,2009,7,1
+Lebanon,39,0,2009,7,1
+Lithuania,1,0,2009,7,1
+Luxembourg,4,0,2009,7,1
+Malaysia,112,0,2009,7,1
+Mauritius,7,0,2009,7,1
+Mexico,8680,116,2009,7,1
+Montenegro,4,0,2009,7,1
+Morocco,17,0,2009,7,1
+Myanmar,1,0,2009,7,1
+Nepal,3,0,2009,7,1
+Netherlands,142,0,2009,7,1
+New Zealand,711,0,2009,7,1
+Nicaragua,293,0,2009,7,1
+Norway,32,0,2009,7,1
+Oman,3,0,2009,7,1
+Panama,417,0,2009,7,1
+Papua New Guinea,1,0,2009,7,1
+Paraguay,96,0,2009,7,1
+Peru,538,0,2009,7,1
+Philippines,861,1,2009,7,1
+Poland,15,0,2009,7,1
+Portugal,17,0,2009,7,1
+Qatar,10,0,2009,7,1
+Romania,28,0,2009,7,1
+Russia,3,0,2009,7,1
+Saint Lucia,1,0,2009,7,1
+Samoa,1,0,2009,7,1
+Saudi Arabia,81,0,2009,7,1
+Serbia,12,0,2009,7,1
+Singapore,701,0,2009,7,1
+Slovakia,13,0,2009,7,1
+Slovenia,4,0,2009,7,1
+South Africa,1,0,2009,7,1
+Spain,717,1,2009,7,1
+Sri Lanka,15,0,2009,7,1
+Suriname,11,0,2009,7,1
+Sweden,69,0,2009,7,1
+Switzerland,56,0,2009,7,1
+Thailand,1414,3,2009,7,1
+Trinidad and Tobago,53,0,2009,7,1
+Tunisia,3,0,2009,7,1
+Turkey,32,0,2009,7,1
+Ukraine,1,0,2009,7,1
+United Arab Emirates,8,0,2009,7,1
+United Kingdom,6552,3,2009,7,1
+United States of America,27717,127,2009,7,1
+Uruguay,195,1,2009,7,1
+Vanuatu,2,0,2009,7,1
+Venezuela,193,0,2009,7,1
+Viet Nam,123,0,2009,7,1
+West Bank and Gaza Strip,13,0,2009,7,1
+Yemen,7,0,2009,7,1
+Algeria,2,0,2009,6,29
+Antigua and Barbuda,2,0,2009,6,29
+Argentina,1488,23,2009,6,29
+Australia,4038,7,2009,6,29
+Austria,12,0,2009,6,29
+Bahamas,4,0,2009,6,29
+Bahrain,15,0,2009,6,29
+Bangladesh,1,0,2009,6,29
+Barbados,10,0,2009,6,29
+Belgium,43,0,2009,6,29
+"Bermuda, UKOT",1,0,2009,6,29
+Bolivia,126,0,2009,6,29
+Brazil,452,0,2009,6,29
+"British Virgin Islands, UKOT",1,0,2009,6,29
+Brunei Darussalam,29,0,2009,6,29
+Bulgaria,7,0,2009,6,29
+Cambodia,6,0,2009,6,29
+Canada,7775,21,2009,6,29
+Cap Verde,3,0,2009,6,29
+"Cayman Islands, UKOT",9,0,2009,6,29
+Chile,5186,7,2009,6,29
+China,1442,0,2009,6,29
+Colombia,88,2,2009,6,29
+Costa Rica,255,1,2009,6,29
+Cote d'Ivoire,2,0,2009,6,29
+Cuba,34,0,2009,6,29
+Cyprus,25,0,2009,6,29
+Czech Republic,9,0,2009,6,29
+Denmark,44,0,2009,6,29
+Dominica,1,0,2009,6,29
+Dominican Republic,108,2,2009,6,29
+Ecuador,125,0,2009,6,29
+Egypt,50,0,2009,6,29
+El Salvador,226,0,2009,6,29
+Estonia,13,0,2009,6,29
+Ethiopia,2,0,2009,6,29
+Fiji,2,0,2009,6,29
+Finland,26,0,2009,6,29
+France,240,0,2009,6,29
+Germany,366,0,2009,6,29
+Greece,86,0,2009,6,29
+Guatemala ,254,2,2009,6,29
+Honduras,118,1,2009,6,29
+Hungary,8,0,2009,6,29
+Iceland,4,0,2009,6,29
+India,64,0,2009,6,29
+Indonesia,8,0,2009,6,29
+Iran,1,0,2009,6,29
+Iraq,10,0,2009,6,29
+Ireland,39,0,2009,6,29
+Israel,469,0,2009,6,29
+Italy,112,0,2009,6,29
+Jamaica,21,0,2009,6,29
+Japan,1212,0,2009,6,29
+Jordan,18,0,2009,6,29
+"Korea, Republic of",202,0,2009,6,29
+Kuwait,30,0,2009,6,29
+Laos,3,0,2009,6,29
+Latvia,1,0,2009,6,29
+Lebanon,25,0,2009,6,29
+Lithuania,1,0,2009,6,29
+Luxembourg,4,0,2009,6,29
+Malaysia,112,0,2009,6,29
+Mexico,8279,116,2009,6,29
+Monaco,1,0,2009,6,29
+Montenegro,1,0,2009,6,29
+Morocco,11,0,2009,6,29
+Nepal,3,0,2009,6,29
+Netherlands,122,0,2009,6,29
+New Zealand,587,0,2009,6,29
+Nicaragua,277,0,2009,6,29
+Norway,31,0,2009,6,29
+Oman,3,0,2009,6,29
+Panama,403,0,2009,6,29
+Papua New Guinea,1,0,2009,6,29
+Paraguay,85,0,2009,6,29
+Peru,360,0,2009,6,29
+Philippines,861,1,2009,6,29
+Poland,14,0,2009,6,29
+Portugal,11,0,2009,6,29
+Qatar,10,0,2009,6,29
+Romania,24,0,2009,6,29
+Russia,3,0,2009,6,29
+Samoa,1,0,2009,6,29
+Saudi Arabia,69,0,2009,6,29
+Serbia,5,0,2009,6,29
+Singapore,599,0,2009,6,29
+Slovakia,9,0,2009,6,29
+Slovenia,4,0,2009,6,29
+South Africa,1,0,2009,6,29
+Spain,541,0,2009,6,29
+Sri Lanka,9,0,2009,6,29
+Suriname,11,0,2009,6,29
+Sweden,67,0,2009,6,29
+Switzerland,49,0,2009,6,29
+Thailand,774,0,2009,6,29
+Trinidad and Tobago,53,0,2009,6,29
+Tunisia,2,0,2009,6,29
+Turkey,27,0,2009,6,29
+Ukraine,1,0,2009,6,29
+United Arab Emirates,8,0,2009,6,29
+United Kingdom,4260,1,2009,6,29
+United States of America,27717,127,2009,6,29
+Uruguay,195,0,2009,6,29
+Vanuatu,2,0,2009,6,29
+Venezuela,172,0,2009,6,29
+Viet Nam,84,0,2009,6,29
+West Bank and Gaza Strip,9,0,2009,6,29
+Yemen,6,0,2009,6,29
+Algeria,2,0,2009,6,26
+Antigua and Barbuda,2,0,2009,6,26
+Argentina,1391,21,2009,6,26
+Australia,3280,3,2009,6,26
+Austria,12,0,2009,6,26
+Bahamas,4,0,2009,6,26
+Bahrain,15,0,2009,6,26
+Bangladesh,1,0,2009,6,26
+Barbados,10,0,2009,6,26
+Belgium,36,0,2009,6,26
+"Bermuda, UKOT",1,0,2009,6,26
+Bolivia,47,0,2009,6,26
+Brazil,399,0,2009,6,26
+"British Virgin Islands, UKOT",1,0,2009,6,26
+Brunei Darussalam,11,0,2009,6,26
+Bulgaria,7,0,2009,6,26
+Cambodia,5,0,2009,6,26
+Canada,6732,19,2009,6,26
+Cap Verde,3,0,2009,6,26
+"Cayman Islands, UKOT",9,0,2009,6,26
+Chile,5186,7,2009,6,26
+China,1089,0,2009,6,26
+Colombia,72,2,2009,6,26
+Costa Rica,222,1,2009,6,26
+Cote d'Ivoire,2,0,2009,6,26
+Cuba,34,0,2009,6,26
+Cyprus,9,0,2009,6,26
+Czech Republic,9,0,2009,6,26
+Denmark,41,0,2009,6,26
+Dominica,1,0,2009,6,26
+Dominican Republic,108,2,2009,6,26
+Ecuador,125,0,2009,6,26
+Egypt,43,0,2009,6,26
+El Salvador,160,0,2009,6,26
+Estonia,8,0,2009,6,26
+Ethiopia,2,0,2009,6,26
+Fiji,2,0,2009,6,26
+Finland,26,0,2009,6,26
+France,194,0,2009,6,26
+Germany,333,0,2009,6,26
+Greece,73,0,2009,6,26
+Guatemala ,254,2,2009,6,26
+Honduras,118,1,2009,6,26
+Hungary,8,0,2009,6,26
+Iceland,4,0,2009,6,26
+India,64,0,2009,6,26
+Indonesia,2,0,2009,6,26
+Iran,1,0,2009,6,26
+Ireland,29,0,2009,6,26
+Israel,405,0,2009,6,26
+Italy,102,0,2009,6,26
+Jamaica,19,0,2009,6,26
+Japan,1049,0,2009,6,26
+Jordan,15,0,2009,6,26
+"Korea, Republic of",142,0,2009,6,26
+Kuwait,30,0,2009,6,26
+Laos,3,0,2009,6,26
+Latvia,1,0,2009,6,26
+Lebanon,25,0,2009,6,26
+Luxembourg,3,0,2009,6,26
+Malaysia,68,0,2009,6,26
+Mexico,8279,116,2009,6,26
+Montenegro,1,0,2009,6,26
+Morocco,11,0,2009,6,26
+Netherlands,120,0,2009,6,26
+New Zealand,453,0,2009,6,26
+Nicaragua,265,0,2009,6,26
+Norway,22,0,2009,6,26
+Oman,3,0,2009,6,26
+Panama,358,0,2009,6,26
+Papua New Guinea,1,0,2009,6,26
+Paraguay,79,0,2009,6,26
+Peru,252,0,2009,6,26
+Philippines,445,1,2009,6,26
+Poland,13,0,2009,6,26
+Portugal,7,0,2009,6,26
+Qatar,10,0,2009,6,26
+Romania,19,0,2009,6,26
+Russia,3,0,2009,6,26
+Samoa,1,0,2009,6,26
+Saudi Arabia,48,0,2009,6,26
+Serbia,2,0,2009,6,26
+Singapore,315,0,2009,6,26
+Slovakia,7,0,2009,6,26
+Slovenia,3,0,2009,6,26
+South Africa,1,0,2009,6,26
+Spain,541,0,2009,6,26
+Sri Lanka,7,0,2009,6,26
+Suriname,11,0,2009,6,26
+Sweden,61,0,2009,6,26
+Switzerland,47,0,2009,6,26
+Thailand,774,0,2009,6,26
+Trinidad and Tobago,25,0,2009,6,26
+Tunisia,2,0,2009,6,26
+Turkey,26,0,2009,6,26
+Ukraine,1,0,2009,6,26
+United Arab Emirates,7,0,2009,6,26
+United Kingdom,3607,1,2009,6,26
+United States of America,21449,87,2009,6,26
+Uruguay,195,0,2009,6,26
+Vanuatu,2,0,2009,6,26
+Venezuela,153,0,2009,6,26
+Viet Nam,63,0,2009,6,26
+West Bank and Gaza Strip,9,0,2009,6,26
+Yemen,6,0,2009,6,26
+Algeria,2,0,2009,6,24
+Antigua and Barbuda,2,0,2009,6,24
+Argentina,1213,7,2009,6,24
+Australia,2857,2,2009,6,24
+Austria,12,0,2009,6,24
+Bahamas,4,0,2009,6,24
+Bahrain,15,0,2009,6,24
+Bangladesh,1,0,2009,6,24
+Barbados,5,0,2009,6,24
+Belgium,30,0,2009,6,24
+"Bermuda, UKOT",1,0,2009,6,24
+Bolivia,44,0,2009,6,24
+Brazil,334,0,2009,6,24
+"British Virgin Islands, UKOT",1,0,2009,6,24
+Brunei Darussalam,4,0,2009,6,24
+Bulgaria,5,0,2009,6,24
+Cambodia,1,0,2009,6,24
+Canada,6457,15,2009,6,24
+Cap Verde,3,0,2009,6,24
+"Cayman Islands, UKOT",7,0,2009,6,24
+Chile,4315,4,2009,6,24
+China,906,0,2009,6,24
+Colombia,71,2,2009,6,24
+Costa Rica,189,1,2009,6,24
+Cote d'Ivoire,2,0,2009,6,24
+Cuba,15,0,2009,6,24
+Cyprus,5,0,2009,6,24
+Czech Republic,7,0,2009,6,24
+Denmark,34,0,2009,6,24
+Dominica,1,0,2009,6,24
+Dominican Republic,108,2,2009,6,24
+Ecuador,115,0,2009,6,24
+Egypt,40,0,2009,6,24
+El Salvador,160,0,2009,6,24
+Estonia,5,0,2009,6,24
+Ethiopia,2,0,2009,6,24
+Fiji,2,0,2009,6,24
+Finland,26,0,2009,6,24
+France,174,0,2009,6,24
+Germany,301,0,2009,6,24
+Greece,58,0,2009,6,24
+Guatemala ,235,1,2009,6,24
+Honduras,118,0,2009,6,24
+Hungary,7,0,2009,6,24
+Iceland,4,0,2009,6,24
+India,64,0,2009,6,24
+Ireland,23,0,2009,6,24
+Israel,375,0,2009,6,24
+Italy,96,0,2009,6,24
+Jamaica,19,0,2009,6,24
+Japan,893,0,2009,6,24
+Jordan,15,0,2009,6,24
+"Korea, Republic of",115,0,2009,6,24
+Kuwait,26,0,2009,6,24
+Laos,3,0,2009,6,24
+Latvia,1,0,2009,6,24
+Lebanon,25,0,2009,6,24
+Luxembourg,3,0,2009,6,24
+Malaysia,68,0,2009,6,24
+Mexico,7847,115,2009,6,24
+Montenegro,1,0,2009,6,24
+Morocco,9,0,2009,6,24
+Netherlands,114,0,2009,6,24
+New Zealand,386,0,2009,6,24
+Nicaragua,220,0,2009,6,24
+Norway,22,0,2009,6,24
+Oman,3,0,2009,6,24
+Panama,330,0,2009,6,24
+Papua New Guinea,1,0,2009,6,24
+Paraguay,58,0,2009,6,24
+Peru,217,0,2009,6,24
+Philippines,445,1,2009,6,24
+Poland,13,0,2009,6,24
+Portugal,6,0,2009,6,24
+Qatar,10,0,2009,6,24
+Romania,19,0,2009,6,24
+Russia,3,0,2009,6,24
+Samoa,1,0,2009,6,24
+Saudi Arabia,45,0,2009,6,24
+Singapore,194,0,2009,6,24
+Slovakia,4,0,2009,6,24
+Slovenia,1,0,2009,6,24
+South Africa,1,0,2009,6,24
+Spain,539,0,2009,6,24
+Sri Lanka,5,0,2009,6,24
+Suriname,11,0,2009,6,24
+Sweden,55,0,2009,6,24
+Switzerland,33,0,2009,6,24
+Thailand,774,0,2009,6,24
+Trinidad and Tobago,25,0,2009,6,24
+Tunisia,2,0,2009,6,24
+Turkey,26,0,2009,6,24
+Ukraine,1,0,2009,6,24
+United Arab Emirates,2,0,2009,6,24
+United Kingdom,2909,1,2009,6,24
+United States of America,21449,87,2009,6,24
+Uruguay,195,0,2009,6,24
+Vanuatu,1,0,2009,6,24
+Venezuela,135,0,2009,6,24
+Viet Nam,56,0,2009,6,24
+West Bank and Gaza Strip,8,0,2009,6,24
+Yemen,6,0,2009,6,24
+Algeria,1,0,2009,6,22
+Argentina,1010,7,2009,6,22
+Australia,2436,1,2009,6,22
+Austria,9,0,2009,6,22
+Bahamas,2,0,2009,6,22
+Bahrain,15,0,2009,6,22
+Bangladesh,1,0,2009,6,22
+Barbados,4,0,2009,6,22
+Belgium,29,0,2009,6,22
+"Bermuda, UKOT",1,0,2009,6,22
+Bolivia,25,0,2009,6,22
+Brazil,131,0,2009,6,22
+"British Virgin Islands, UKOT",1,0,2009,6,22
+Brunei Darussalam,1,0,2009,6,22
+Bulgaria,2,0,2009,6,22
+Canada,5710,13,2009,6,22
+"Cayman Islands, UKOT",4,0,2009,6,22
+Chile,4315,4,2009,6,22
+China,739,0,2009,6,22
+Colombia,71,2,2009,6,22
+Costa Rica,149,1,2009,6,22
+Cuba,15,0,2009,6,22
+Cyprus,4,0,2009,6,22
+Czech Republic,7,0,2009,6,22
+Denmark,23,0,2009,6,22
+Dominica,1,0,2009,6,22
+Dominican Republic,93,1,2009,6,22
+Ecuador,95,0,2009,6,22
+Egypt,39,0,2009,6,22
+El Salvador,160,0,2009,6,22
+Estonia,5,0,2009,6,22
+Fiji,1,0,2009,6,22
+Finland,13,0,2009,6,22
+France,149,0,2009,6,22
+Germany,275,0,2009,6,22
+Greece,48,0,2009,6,22
+Guatemala ,208,1,2009,6,22
+Honduras,108,0,2009,6,22
+Hungary,7,0,2009,6,22
+Iceland,4,0,2009,6,22
+India,44,0,2009,6,22
+Ireland,23,0,2009,6,22
+Israel,291,0,2009,6,22
+Italy,88,0,2009,6,22
+Jamaica,19,0,2009,6,22
+Japan,850,0,2009,6,22
+Jordan,13,0,2009,6,22
+"Korea, Republic of",105,0,2009,6,22
+Kuwait,26,0,2009,6,22
+Laos,2,0,2009,6,22
+Lebanon,12,0,2009,6,22
+Luxembourg,3,0,2009,6,22
+Malaysia,23,0,2009,6,22
+Mexico,7624,113,2009,6,22
+Morocco *,6,0,2009,6,22
+Netherlands,95,0,2009,6,22
+New Zealand,258,0,2009,6,22
+Nicaragua,189,0,2009,6,22
+Norway,17,0,2009,6,22
+Oman,3,0,2009,6,22
+Panama,330,0,2009,6,22
+Papua New Guinea,1,0,2009,6,22
+Paraguay,48,0,2009,6,22
+Peru,185,0,2009,6,22
+Philippines,344,0,2009,6,22
+Poland,13,0,2009,6,22
+Portugal,6,0,2009,6,22
+Qatar,8,0,2009,6,22
+Romania,18,0,2009,6,22
+Russia,3,0,2009,6,22
+Samoa,1,0,2009,6,22
+Saudi Arabia,35,0,2009,6,22
+Singapore,142,0,2009,6,22
+Slovakia,3,0,2009,6,22
+Slovenia,1,0,2009,6,22
+South Africa,1,0,2009,6,22
+Spain,522,0,2009,6,22
+Sri Lanka,4,0,2009,6,22
+Suriname,11,0,2009,6,22
+Sweden,48,0,2009,6,22
+Switzerland,31,0,2009,6,22
+Thailand,589,0,2009,6,22
+Trinidad and Tobago,18,0,2009,6,22
+Turkey,20,0,2009,6,22
+Ukraine,1,0,2009,6,22
+United Arab Emirates,2,0,2009,6,22
+United Kingdom,2508,1,2009,6,22
+United States of America,21449,87,2009,6,22
+Uruguay,36,0,2009,6,22
+Venezuela,71,0,2009,6,22
+Viet Nam,35,0,2009,6,22
+West Bank and Gaza Strip,8,0,2009,6,22
+Yemen,5,0,2009,6,22
+Argentina,918,4,2009,6,19
+Australia,2199,0,2009,6,19
+Austria,8,0,2009,6,19
+Bahamas,2,0,2009,6,19
+Bahrain,12,0,2009,6,19
+Barbados,4,0,2009,6,19
+Belgium,19,0,2009,6,19
+"Bermuda, UKOT",1,0,2009,6,19
+Bolivia,11,0,2009,6,19
+Brazil,96,0,2009,6,19
+"British Virgin Islands, UKOT",1,0,2009,6,19
+Bulgaria,2,0,2009,6,19
+Canada,4905,12,2009,6,19
+"Cayman Islands, UKOT",4,0,2009,6,19
+Chile,3125,2,2009,6,19
+China,519,0,2009,6,19
+Colombia,60,1,2009,6,19
+Costa Rica,149,1,2009,6,19
+Cuba,15,0,2009,6,19
+Cyprus,1,0,2009,6,19
+Czech Republic,5,0,2009,6,19
+Denmark,22,0,2009,6,19
+Dominica,1,0,2009,6,19
+Dominican Republic,93,1,2009,6,19
+Ecuador,86,0,2009,6,19
+Egypt,29,0,2009,6,19
+El Salvador,160,0,2009,6,19
+Estonia,5,0,2009,6,19
+Finland,13,0,2009,6,19
+France,133,0,2009,6,19
+Germany,238,0,2009,6,19
+Greece,31,0,2009,6,19
+Guatemala ,153,1,2009,6,19
+Honduras,108,0,2009,6,19
+Hungary,7,0,2009,6,19
+Iceland,4,0,2009,6,19
+India,30,0,2009,6,19
+Ireland,16,0,2009,6,19
+Israel,219,0,2009,6,19
+Italy,88,0,2009,6,19
+Jamaica,14,0,2009,6,19
+Japan,690,0,2009,6,19
+Jordan,2,0,2009,6,19
+"Korea, Republic of",84,0,2009,6,19
+Kuwait,18,0,2009,6,19
+Laos,1,0,2009,6,19
+Lebanon,12,0,2009,6,19
+Luxembourg,2,0,2009,6,19
+Malaysia,23,0,2009,6,19
+Mexico,7624,113,2009,6,19
+Morocco,8,0,2009,6,19
+Netherlands,91,0,2009,6,19
+New Zealand,216,0,2009,6,19
+Nicaragua,144,0,2009,6,19
+Norway,17,0,2009,6,19
+Oman,3,0,2009,6,19
+Panama,272,0,2009,6,19
+Papua New Guinea,1,0,2009,6,19
+Paraguay,27,0,2009,6,19
+Peru,141,0,2009,6,19
+Philippines,311,0,2009,6,19
+Poland,7,0,2009,6,19
+Portugal,5,0,2009,6,19
+Qatar,3,0,2009,6,19
+Romania,18,0,2009,6,19
+Russia,3,0,2009,6,19
+Samoa,1,0,2009,6,19
+Saudi Arabia,22,0,2009,6,19
+Singapore,77,0,2009,6,19
+Slovakia,3,0,2009,6,19
+South Africa,1,0,2009,6,19
+Spain,512,0,2009,6,19
+Sri Lanka,1,0,2009,6,19
+Suriname,11,0,2009,6,19
+Sweden,43,0,2009,6,19
+Switzerland,27,0,2009,6,19
+Thailand,518,0,2009,6,19
+Trinidad and Tobago,18,0,2009,6,19
+Turkey,20,0,2009,6,19
+Ukraine,1,0,2009,6,19
+United Arab Emirates,2,0,2009,6,19
+United Kingdom,1754,1,2009,6,19
+United States of America,17855,44,2009,6,19
+Uruguay,36,0,2009,6,19
+Venezuela,60,0,2009,6,19
+Viet Nam,27,0,2009,6,19
+West Bank and Gaza Strip,5,0,2009,6,19
+Yemen,4,0,2009,6,19
+Argentina,733,1,2009,6,17
+Australia,2112,0,2009,6,17
+Austria,7,0,2009,6,17
+Bahamas,2,0,2009,6,17
+Bahrain,12,0,2009,6,17
+Barbados,3,0,2009,6,17
+Belgium,19,0,2009,6,17
+"Bermuda, UKOT",1,0,2009,6,17
+Bolivia,11,0,2009,6,17
+Brazil,79,0,2009,6,17
+"British Virgin Islands, UKOT",1,0,2009,6,17
+Bulgaria,2,0,2009,6,17
+Canada,4049,7,2009,6,17
+"Cayman Islands, UKOT",4,0,2009,6,17
+Chile,2335,2,2009,6,17
+China,382,0,2009,6,17
+Colombia,53,1,2009,6,17
+Costa Rica,149,1,2009,6,17
+Cuba,7,0,2009,6,17
+Cyprus,1,0,2009,6,17
+Czech Republic,4,0,2009,6,17
+Denmark,15,0,2009,6,17
+Dominica,1,0,2009,6,17
+Dominican Republic,93,1,2009,6,17
+Ecuador,86,0,2009,6,17
+Egypt,26,0,2009,6,17
+El Salvador,125,0,2009,6,17
+Estonia,4,0,2009,6,17
+Finland,12,0,2009,6,17
+France,118,0,2009,6,17
+"France, French Polynesia, FOC",1,0,2009,6,17
+"France, Martinique, FOC",1,0,2009,6,17
+Germany,195,0,2009,6,17
+Greece,23,0,2009,6,17
+Guatemala,128,1,2009,6,17
+Honduras,100,0,2009,6,17
+Hungary,4,0,2009,6,17
+Iceland,4,0,2009,6,17
+India,30,0,2009,6,17
+Ireland,12,0,2009,6,17
+Israel,152,0,2009,6,17
+Italy,72,0,2009,6,17
+Jamaica,12,0,2009,6,17
+Japan,666,0,2009,6,17
+Jordan,2,0,2009,6,17
+"Korea, Republic of",65,0,2009,6,17
+Kuwait,18,0,2009,6,17
+Lebanon,11,0,2009,6,17
+Luxembourg,2,0,2009,6,17
+Malaysia,17,0,2009,6,17
+Mexico,6241,108,2009,6,17
+Morocco,3,0,2009,6,17
+Netherlands,68,0,2009,6,17
+"Netherlands, Curacao, OT",1,0,2009,6,17
+New Zealand,127,0,2009,6,17
+Nicaragua,118,0,2009,6,17
+Norway,13,0,2009,6,17
+Panama,272,0,2009,6,17
+Paraguay,25,0,2009,6,17
+Peru,112,0,2009,6,17
+Philippines,193,0,2009,6,17
+Poland,7,0,2009,6,17
+Portugal,3,0,2009,6,17
+Qatar,3,0,2009,6,17
+Romania,16,0,2009,6,17
+Russia,3,0,2009,6,17
+Samoa,1,0,2009,6,17
+Saudi Arabia,17,0,2009,6,17
+Singapore,49,0,2009,6,17
+Slovakia,3,0,2009,6,17
+Spain,499,0,2009,6,17
+Sri Lanka,1,0,2009,6,17
+Sweden,37,0,2009,6,17
+Switzerland,27,0,2009,6,17
+Thailand,310,0,2009,6,17
+Trinidad and Tobago,5,0,2009,6,17
+Turkey,16,0,2009,6,17
+Ukraine,1,0,2009,6,17
+United Arab Emirates,1,0,2009,6,17
+United Kingdom,1461,1,2009,6,17
+"United Kingdom, Isle of Man, Crown Dependency",1,0,2009,6,17
+"United Kingdom, Jersey, Crown Dependency",1,0,2009,6,17
+United States of America*,17855,44,2009,6,17
+Uruguay,36,0,2009,6,17
+Venezuela,45,0,2009,6,17
+Viet Nam,27,0,2009,6,17
+West Bank and Gaza Strip,2,0,2009,6,17
+Yemen,1,0,2009,6,17
+Argentina,343,0,2009,6,15
+Australia,1823,0,2009,6,15
+Austria,7,0,2009,6,15
+Bahamas,1,0,2009,6,15
+Bahrain,1,0,2009,6,15
+Barbados,3,0,2009,6,15
+Belgium,17,0,2009,6,15
+Bolivia,7,0,2009,6,15
+Brazil,54,0,2009,6,15
+Bulgaria,2,0,2009,6,15
+Canada,2978,4,2009,6,15
+"Cayman Islands, UKOT",2,0,2009,6,15
+Chile,1694,2,2009,6,15
+China,318,0,2009,6,15
+Colombia,42,1,2009,6,15
+Costa Rica,104,1,2009,6,15
+Cuba,6,0,2009,6,15
+Cyprus,1,0,2009,6,15
+Czech Republic,4,0,2009,6,15
+Denmark,12,0,2009,6,15
+Dominica,1,0,2009,6,15
+Dominican Republic,93,1,2009,6,15
+Ecuador,80,0,2009,6,15
+Egypt,18,0,2009,6,15
+El Salvador,95,0,2009,6,15
+Estonia,4,0,2009,6,15
+Finland,4,0,2009,6,15
+France,80,0,2009,6,15
+Germany,170,0,2009,6,15
+Greece,19,0,2009,6,15
+Guatemala,119,1,2009,6,15
+Honduras,89,0,2009,6,15
+Hungary,4,0,2009,6,15
+Iceland,4,0,2009,6,15
+India,16,0,2009,6,15
+Ireland,12,0,2009,6,15
+Israel,117,0,2009,6,15
+Italy,67,0,2009,6,15
+Jamaica,11,0,2009,6,15
+Japan,605,0,2009,6,15
+"Korea, Republic of",65,0,2009,6,15
+Kuwait,18,0,2009,6,15
+Lebanon,8,0,2009,6,15
+Luxembourg,1,0,2009,6,15
+Malaysia,5,0,2009,6,15
+Mexico,6241,108,2009,6,15
+Morocco,1,0,2009,6,15
+Netherlands,61,0,2009,6,15
+New Zealand,86,0,2009,6,15
+Nicaragua,56,0,2009,6,15
+Norway,13,0,2009,6,15
+Panama,272,0,2009,6,15
+Paraguay,25,0,2009,6,15
+Peru,91,0,2009,6,15
+Philippines,77,0,2009,6,15
+Poland,7,0,2009,6,15
+Portugal,3,0,2009,6,15
+Romania,13,0,2009,6,15
+Russia,3,0,2009,6,15
+Saudi Arabia,11,0,2009,6,15
+Singapore,47,0,2009,6,15
+Slovakia,3,0,2009,6,15
+Spain,488,0,2009,6,15
+Sweden,32,0,2009,6,15
+Switzerland,22,0,2009,6,15
+Thailand,29,0,2009,6,15
+Trinidad and Tobago,5,0,2009,6,15
+Turkey,10,0,2009,6,15
+Ukraine,1,0,2009,6,15
+United Arab Emirates,1,0,2009,6,15
+United Kingdom,1226,0,2009,6,15
+United States of America,17855,45,2009,6,15
+Uruguay,36,0,2009,6,15
+Venezuela,25,0,2009,6,15
+Viet Nam,25,0,2009,6,15
+West Bank and Gaza Strip,2,0,2009,6,15
+Argentina,343,0,2009,6,12
+Australia,1307,0,2009,6,12
+Austria,7,0,2009,6,12
+Bahamas,1,0,2009,6,12
+Bahrain,1,0,2009,6,12
+Barbados,3,0,2009,6,12
+Belgium,14,0,2009,6,12
+Bolivia,5,0,2009,6,12
+Brazil,52,0,2009,6,12
+Bulgaria,2,0,2009,6,12
+Canada,2978,4,2009,6,12
+"Cayman Islands, UKOT",2,0,2009,6,12
+Chile,1694,2,2009,6,12
+China,188,0,2009,6,12
+Colombia,35,1,2009,6,12
+Costa Rica,104,1,2009,6,12
+Cuba,6,0,2009,6,12
+Cyprus,1,0,2009,6,12
+Czech Republic,4,0,2009,6,12
+Denmark,11,0,2009,6,12
+Dominica,1,0,2009,6,12
+Dominican Republic,91,1,2009,6,12
+Ecuador,67,0,2009,6,12
+Egypt,10,0,2009,6,12
+El Salvador,69,0,2009,6,12
+Estonia,4,0,2009,6,12
+Finland,4,0,2009,6,12
+France,73,0,2009,6,12
+Germany,95,0,2009,6,12
+Greece,7,0,2009,6,12
+Guatemala,74,1,2009,6,12
+Honduras,89,0,2009,6,12
+Hungary,4,0,2009,6,12
+Iceland,4,0,2009,6,12
+India,9,0,2009,6,12
+Ireland,12,0,2009,6,12
+Israel,68,0,2009,6,12
+Italy,56,0,2009,6,12
+Jamaica,11,0,2009,6,12
+Japan,549,0,2009,6,12
+"Korea, Republic of",53,0,2009,6,12
+Kuwait,18,0,2009,6,12
+Lebanon,8,0,2009,6,12
+Luxembourg,1,0,2009,6,12
+Malaysia,5,0,2009,6,12
+Mexico,6241,108,2009,6,12
+Netherlands,35,0,2009,6,12
+New Zealand,27,0,2009,6,12
+Nicaragua,56,0,2009,6,12
+Norway,13,0,2009,6,12
+Panama,221,0,2009,6,12
+Paraguay,25,0,2009,6,12
+Peru,79,0,2009,6,12
+Philippines,77,0,2009,6,12
+Poland,7,0,2009,6,12
+Portugal,2,0,2009,6,12
+Romania,11,0,2009,6,12
+Russia,3,0,2009,6,12
+Saudi Arabia,1,0,2009,6,12
+Singapore,18,0,2009,6,12
+Slovakia,3,0,2009,6,12
+Spain,488,0,2009,6,12
+Sweden,19,0,2009,6,12
+Switzerland,20,0,2009,6,12
+Thailand,8,0,2009,6,12
+Trinidad and Tobago,4,0,2009,6,12
+Turkey,10,0,2009,6,12
+Ukraine,1,0,2009,6,12
+United Arab Emirates,1,0,2009,6,12
+United Kingdom,822,0,2009,6,12
+United States of America,13217,27,2009,6,12
+Uruguay,36,0,2009,6,12
+Venezuela,25,0,2009,6,12
+Viet Nam,23,0,2009,6,12
+Argentina,256,0,2009,6,11
+Australia,1307,0,2009,6,11
+Austria,7,0,2009,6,11
+Bahamas,1,0,2009,6,11
+Bahrain,1,0,2009,6,11
+Barbados,3,0,2009,6,11
+Belgium,14,0,2009,6,11
+Bolivia,5,0,2009,6,11
+Brazil,40,0,2009,6,11
+Bulgaria,2,0,2009,6,11
+Canada,2446,4,2009,6,11
+"Cayman Islands, UKOT",2,0,2009,6,11
+Chile,1694,2,2009,6,11
+China,174,0,2009,6,11
+Colombia,35,1,2009,6,11
+Costa Rica,104,1,2009,6,11
+Cuba,5,0,2009,6,11
+Cyprus,1,0,2009,6,11
+Czech Republic,4,0,2009,6,11
+Denmark,10,0,2009,6,11
+Dominica,1,0,2009,6,11
+Dominican Republic,91,1,2009,6,11
+Ecuador,67,0,2009,6,11
+Egypt,10,0,2009,6,11
+El Salvador,69,0,2009,6,11
+Estonia,4,0,2009,6,11
+Finland,4,0,2009,6,11
+France,73,0,2009,6,11
+Germany,95,0,2009,6,11
+Greece,7,0,2009,6,11
+Guatemala,60,0,2009,6,11
+Honduras,89,0,2009,6,11
+Hungary,4,0,2009,6,11
+Iceland,3,0,2009,6,11
+India,9,0,2009,6,11
+Ireland,12,0,2009,6,11
+Israel,68,0,2009,6,11
+Italy,54,0,2009,6,11
+Jamaica,10,0,2009,6,11
+Japan,518,0,2009,6,11
+"Korea, Republic of",53,0,2009,6,11
+Kuwait,18,0,2009,6,11
+Lebanon,8,0,2009,6,11
+Luxembourg,1,0,2009,6,11
+Malaysia,5,0,2009,6,11
+Mexico,6241,108,2009,6,11
+Netherlands,30,0,2009,6,11
+New Zealand,23,0,2009,6,11
+Nicaragua,45,0,2009,6,11
+Norway,13,0,2009,6,11
+Panama,221,0,2009,6,11
+Paraguay,25,0,2009,6,11
+Peru,64,0,2009,6,11
+Philippines,77,0,2009,6,11
+Poland,7,0,2009,6,11
+Portugal,2,0,2009,6,11
+Romania,11,0,2009,6,11
+Russia,3,0,2009,6,11
+Saudi Arabia,1,0,2009,6,11
+Singapore,18,0,2009,6,11
+Slovakia,3,0,2009,6,11
+Spain,357,0,2009,6,11
+Sweden,19,0,2009,6,11
+Switzerland,20,0,2009,6,11
+Thailand,8,0,2009,6,11
+Trinidad and Tobago,2,0,2009,6,11
+Turkey,10,0,2009,6,11
+Ukraine,1,0,2009,6,11
+United Arab Emirates,1,0,2009,6,11
+United Kingdom,822,0,2009,6,11
+United States of America,13217,27,2009,6,11
+Uruguay,24,0,2009,6,11
+Venezuela,13,0,2009,6,11
+Viet Nam,16,0,2009,6,11
+Argentina,235,0,2009,6,10
+Australia,1224,0,2009,6,10
+Austria,5,0,2009,6,10
+Bahamas,2,0,2009,6,10
+Bahrain,1,0,2009,6,10
+Barbados,2,0,2009,6,10
+Belgium,14,0,2009,6,10
+Bolivia,3,0,2009,6,10
+Brazil,36,0,2009,6,10
+Bulgaria,2,0,2009,6,10
+Canada,2446,4,2009,6,10
+"Cayman Islands, UKOT",1,0,2009,6,10
+Chile,1694,2,2009,6,10
+China,142,0,2009,6,10
+Colombia,35,0,2009,6,10
+Costa Rica,93,1,2009,6,10
+Cuba,5,0,2009,6,10
+Cyprus,1,0,2009,6,10
+Czech Republic,2,0,2009,6,10
+Denmark,8,0,2009,6,10
+Dominica,1,0,2009,6,10
+Dominican Republic,91,1,2009,6,10
+Ecuador,60,0,2009,6,10
+Egypt,8,0,2009,6,10
+El Salvador,69,0,2009,6,10
+Estonia,4,0,2009,6,10
+Finland,4,0,2009,6,10
+France,71,0,2009,6,10
+Germany,78,0,2009,6,10
+Greece,5,0,2009,6,10
+Guatemala,60,0,2009,6,10
+Honduras,89,0,2009,6,10
+Hungary,3,0,2009,6,10
+Iceland,2,0,2009,6,10
+India,4,0,2009,6,10
+Ireland,12,0,2009,6,10
+Israel,63,0,2009,6,10
+Italy,50,0,2009,6,10
+Jamaica,7,0,2009,6,10
+Japan,485,0,2009,6,10
+"Korea, Republic of",48,0,2009,6,10
+Kuwait,18,0,2009,6,10
+Lebanon,8,0,2009,6,10
+Luxembourg,1,0,2009,6,10
+Malaysia,5,0,2009,6,10
+Mexico,5717,106,2009,6,10
+Netherlands,22,0,2009,6,10
+New Zealand,23,0,2009,6,10
+Nicaragua,29,0,2009,6,10
+Norway,9,0,2009,6,10
+Panama,221,0,2009,6,10
+Paraguay,16,0,2009,6,10
+Peru,64,0,2009,6,10
+Philippines,54,0,2009,6,10
+Poland,6,0,2009,6,10
+Portugal,2,0,2009,6,10
+Romania,9,0,2009,6,10
+Russia,3,0,2009,6,10
+Saudi Arabia,1,0,2009,6,10
+Singapore,18,0,2009,6,10
+Slovakia,3,0,2009,6,10
+Spain,331,0,2009,6,10
+Sweden,16,0,2009,6,10
+Switzerland,16,0,2009,6,10
+Thailand,8,0,2009,6,10
+Trinidad and Tobago,2,0,2009,6,10
+Turkey,10,0,2009,6,10
+Ukraine,1,0,2009,6,10
+United Arab Emirates,1,0,2009,6,10
+United Kingdom,666,0,2009,6,10
+United States of America,13217,27,2009,6,10
+Uruguay,24,0,2009,6,10
+Venezuela,12,0,2009,6,10
+Viet Nam,15,0,2009,6,10
+Argentina,202,0,2009,6,8
+Australia,1051,0,2009,6,8
+Austria,5,0,2009,6,8
+Bahamas,1,0,2009,6,8
+Bahrain,1,0,2009,6,8
+Barbados,2,0,2009,6,8
+Belgium,14,0,2009,6,8
+Bolivia,3,0,2009,6,8
+Brazil,35,0,2009,6,8
+Bulgaria,2,0,2009,6,8
+Canada,2115,3,2009,6,8
+"Cayman Islands, UKOT",1,0,2009,6,8
+Chile,411,1,2009,6,8
+China,108,0,2009,6,8
+Colombia,25,0,2009,6,8
+Costa Rica,68,1,2009,6,8
+Cuba,5,0,2009,6,8
+Cyprus,1,0,2009,6,8
+Czech Republic,2,0,2009,6,8
+Denmark,7,0,2009,6,8
+Dominica,1,0,2009,6,8
+Dominican Republic,44,1,2009,6,8
+Ecuador,60,0,2009,6,8
+Egypt,1,0,2009,6,8
+El Salvador,69,0,2009,6,8
+Estonia,3,0,2009,6,8
+Finland,4,0,2009,6,8
+France,58,0,2009,6,8
+Germany,63,0,2009,6,8
+Greece,5,0,2009,6,8
+Guatemala,30,0,2009,6,8
+Honduras,34,0,2009,6,8
+Hungary,3,0,2009,6,8
+Iceland,1,0,2009,6,8
+India,4,0,2009,6,8
+Ireland,11,0,2009,6,8
+Israel,54,0,2009,6,8
+Italy,50,0,2009,6,8
+Jamaica,4,0,2009,6,8
+Japan,410,0,2009,6,8
+"Korea, Republic of",47,0,2009,6,8
+Kuwait,18,0,2009,6,8
+Lebanon,3,0,2009,6,8
+Luxembourg,1,0,2009,6,8
+Malaysia,5,0,2009,6,8
+Mexico,5717,106,2009,6,8
+Netherlands,10,0,2009,6,8
+New Zealand,14,0,2009,6,8
+Nicaragua,18,0,2009,6,8
+Norway,9,0,2009,6,8
+Panama,179,0,2009,6,8
+Paraguay,5,0,2009,6,8
+Peru,61,0,2009,6,8
+Philippines,33,0,2009,6,8
+Poland,5,0,2009,6,8
+Portugal,2,0,2009,6,8
+Romania,9,0,2009,6,8
+Russia,3,0,2009,6,8
+Saudi Arabia,1,0,2009,6,8
+Singapore,15,0,2009,6,8
+Slovakia,3,0,2009,6,8
+Spain,291,0,2009,6,8
+Sweden,14,0,2009,6,8
+Switzerland,16,0,2009,6,8
+Thailand,8,0,2009,6,8
+Trinidad and Tobago,2,0,2009,6,8
+Turkey,10,0,2009,6,8
+United Arab Emirates,1,0,2009,6,8
+United Kingdom,557,0,2009,6,8
+United States of America,13217,27,2009,6,8
+Uruguay,17,0,2009,6,8
+Venezuela,4,0,2009,6,8
+Viet Nam,9,0,2009,6,8
+Argentina,147,0,2009,6,5
+Australia,876,0,2009,6,5
+Austria,2,0,2009,6,5
+Bahamas,1,0,2009,6,5
+Bahrain,1,0,2009,6,5
+Barbados,1,0,2009,6,5
+Belgium,13,0,2009,6,5
+Bolivia,3,0,2009,6,5
+Brazil,28,0,2009,6,5
+Bulgaria,1,0,2009,6,5
+Canada,1795,3,2009,6,5
+Chile,369,1,2009,6,5
+China,89,0,2009,6,5
+Colombia,24,0,2009,6,5
+Costa Rica,68,1,2009,6,5
+Cuba,4,0,2009,6,5
+Cyprus,1,0,2009,6,5
+Czech Republic,2,0,2009,6,5
+Denmark,4,0,2009,6,5
+Dominican Republic,33,0,2009,6,5
+Ecuador,43,0,2009,6,5
+Egypt,1,0,2009,6,5
+El Salvador,49,0,2009,6,5
+Estonia,3,0,2009,6,5
+Finland,4,0,2009,6,5
+France,47,0,2009,6,5
+Germany,43,0,2009,6,5
+Greece,5,0,2009,6,5
+Guatemala,23,0,2009,6,5
+Honduras,34,0,2009,6,5
+Hungary,3,0,2009,6,5
+Iceland,1,0,2009,6,5
+India,4,0,2009,6,5
+Ireland,8,0,2009,6,5
+Israel,39,0,2009,6,5
+Italy,38,0,2009,6,5
+Jamaica,2,0,2009,6,5
+Japan,410,0,2009,6,5
+"Korea, Republic of",41,0,2009,6,5
+Kuwait,18,0,2009,6,5
+Lebanon,3,0,2009,6,5
+Luxembourg,1,0,2009,6,5
+Malaysia,2,0,2009,6,5
+Mexico,5563,103,2009,6,5
+Netherlands,4,0,2009,6,5
+New Zealand,11,0,2009,6,5
+Nicaragua,5,0,2009,6,5
+Norway,9,0,2009,6,5
+Panama,173,0,2009,6,5
+Paraguay,5,0,2009,6,5
+Peru,47,0,2009,6,5
+Philippines,29,0,2009,6,5
+Poland,4,0,2009,6,5
+Portugal,2,0,2009,6,5
+Romania,8,0,2009,6,5
+Russia,3,0,2009,6,5
+Saudi Arabia,1,0,2009,6,5
+Singapore,12,0,2009,6,5
+Slovakia,3,0,2009,6,5
+Spain,218,0,2009,6,5
+Sweden,13,0,2009,6,5
+Switzerland,10,0,2009,6,5
+Thailand,8,0,2009,6,5
+Turkey,8,0,2009,6,5
+United Kingdom,428,0,2009,6,5
+United States of America,11054,17,2009,6,5
+Uruguay,15,0,2009,6,5
+Venezuela,4,0,2009,6,5
+Viet Nam,3,0,2009,6,5
+Argentina,131,0,2009,6,3
+Australia,501,0,2009,6,3
+Austria,1,0,2009,6,3
+Bahamas,1,0,2009,6,3
+Bahrain,1,0,2009,6,3
+Belgium,13,0,2009,6,3
+Bolivia,3,0,2009,6,3
+Brazil,20,0,2009,6,3
+Bulgaria,1,0,2009,6,3
+Canada,1530,2,2009,6,3
+Chile,313,0,2009,6,3
+China,69,0,2009,6,3
+Colombia,20,0,2009,6,3
+Costa Rica,50,1,2009,6,3
+Cuba,4,0,2009,6,3
+Cyprus,1,0,2009,6,3
+Czech Republic,1,0,2009,6,3
+Denmark,1,0,2009,6,3
+Dominican Republic,11,0,2009,6,3
+Ecuador,39,0,2009,6,3
+Egypt,1,0,2009,6,3
+El Salvador,41,0,2009,6,3
+Estonia,1,0,2009,6,3
+Finland,4,0,2009,6,3
+France,26,0,2009,6,3
+Germany,28,0,2009,6,3
+Greece,5,0,2009,6,3
+Guatemala,14,0,2009,6,3
+Honduras,2,0,2009,6,3
+Hungary,1,0,2009,6,3
+Iceland,1,0,2009,6,3
+India,1,0,2009,6,3
+Ireland,4,0,2009,6,3
+Israel,33,0,2009,6,3
+Italy,30,0,2009,6,3
+Jamaica,2,0,2009,6,3
+Japan,385,0,2009,6,3
+"Korea, Republic of",41,0,2009,6,3
+Kuwait,18,0,2009,6,3
+Lebanon,3,0,2009,6,3
+Malaysia,2,0,2009,6,3
+Mexico,5029,97,2009,6,3
+Netherlands,4,0,2009,6,3
+New Zealand,10,0,2009,6,3
+Nicaragua,1,0,2009,6,3
+Norway,4,0,2009,6,3
+Panama,155,0,2009,6,3
+Paraguay,5,0,2009,6,3
+Peru,40,0,2009,6,3
+Philippines,16,0,2009,6,3
+Poland,4,0,2009,6,3
+Portugal,2,0,2009,6,3
+Romania,5,0,2009,6,3
+Russia,3,0,2009,6,3
+Singapore,9,0,2009,6,3
+Slovakia,2,0,2009,6,3
+Spain,180,0,2009,6,3
+Sweden,7,0,2009,6,3
+Switzerland,10,0,2009,6,3
+Thailand,2,0,2009,6,3
+Turkey,4,0,2009,6,3
+United Kingdom,339,0,2009,6,3
+United States of America,10053,17,2009,6,3
+Uruguay,15,0,2009,6,3
+Venezuela,3,0,2009,6,3
+Viet Nam,3,0,2009,6,3
+Argentina,100,0,2009,6,1
+Australia,297,0,2009,6,1
+Austria,1,0,2009,6,1
+Bahamas,1,0,2009,6,1
+Bahrain,1,0,2009,6,1
+Belgium,12,0,2009,6,1
+Bolivia,3,0,2009,6,1
+Brazil,18,0,2009,6,1
+Canada,1336,2,2009,6,1
+Chile,250,0,2009,6,1
+China,52,0,2009,6,1
+Colombia,20,0,2009,6,1
+Costa Rica,37,1,2009,6,1
+Cuba,4,0,2009,6,1
+Cyprus,1,0,2009,6,1
+Czech Republic,1,0,2009,6,1
+Denmark,1,0,2009,6,1
+Dominican Republic,2,0,2009,6,1
+Ecuador,39,0,2009,6,1
+El Salvador,27,0,2009,6,1
+Estonia,1,0,2009,6,1
+Finland,3,0,2009,6,1
+France,24,0,2009,6,1
+Germany,28,0,2009,6,1
+Greece,4,0,2009,6,1
+Guatemala ,12,0,2009,6,1
+Honduras,2,0,2009,6,1
+Hungary,1,0,2009,6,1
+Iceland,1,0,2009,6,1
+India,1,0,2009,6,1
+Ireland,4,0,2009,6,1
+Israel,19,0,2009,6,1
+Italy,29,0,2009,6,1
+Jamaica,2,0,2009,6,1
+Japan,370,0,2009,6,1
+"Korea, Republic of",33,0,2009,6,1
+Kuwait,18,0,2009,6,1
+Malaysia,2,0,2009,6,1
+Mexico,5029,97,2009,6,1
+Netherlands,3,0,2009,6,1
+New Zealand,9,0,2009,6,1
+Norway,4,0,2009,6,1
+Panama,107,0,2009,6,1
+Paraguay,5,0,2009,6,1
+Peru,36,0,2009,6,1
+Philippines,16,0,2009,6,1
+Poland,4,0,2009,6,1
+Portugal,1,0,2009,6,1
+Romania,3,0,2009,6,1
+Russia,3,0,2009,6,1
+Singapore,5,0,2009,6,1
+Slovakia,2,0,2009,6,1
+Spain,178,0,2009,6,1
+Sweden,4,0,2009,6,1
+Switzerland,8,0,2009,6,1
+Thailand,2,0,2009,6,1
+Turkey,4,0,2009,6,1
+United Kingdom,229,0,2009,6,1
+United States of America,8975,15,2009,6,1
+Uruguay,11,0,2009,6,1
+Venezuela,2,0,2009,6,1
+Viet Nam,1,0,2009,6,1
+Argentina,37,0,2009,5,29
+Australia,147,0,2009,5,29
+Austria,1,0,2009,5,29
+Bahrain,1,0,2009,5,29
+Belgium,8,0,2009,5,29
+Brazil,10,0,2009,5,29
+Canada,1118,2,2009,5,29
+Chile,165,0,2009,5,29
+China,30,0,2009,5,29
+Colombia,17,0,2009,5,29
+Costa Rica,33,1,2009,5,29
+Cuba,4,0,2009,5,29
+Czech Republic,1,0,2009,5,29
+Denmark,1,0,2009,5,29
+Dominican Republic,2,0,2009,5,29
+Ecuador,32,0,2009,5,29
+El Salvador,11,0,2009,5,29
+Finland,3,0,2009,5,29
+France,21,0,2009,5,29
+Germany,19,0,2009,5,29
+Greece,3,0,2009,5,29
+Guatemala,5,0,2009,5,29
+Honduras,1,0,2009,5,29
+Iceland,1,0,2009,5,29
+India,1,0,2009,5,29
+Ireland,3,0,2009,5,29
+Israel,11,0,2009,5,29
+Italy,26,0,2009,5,29
+Japan,364,0,2009,5,29
+"Korea, Republic of",33,0,2009,5,29
+Kuwait,18,0,2009,5,29
+Malaysia,2,0,2009,5,29
+Mexico,4910,85,2009,5,29
+Netherlands,3,0,2009,5,29
+New Zealand,9,0,2009,5,29
+Norway,4,0,2009,5,29
+Panama,107,0,2009,5,29
+Peru,31,0,2009,5,29
+Philippines,6,0,2009,5,29
+Poland,4,0,2009,5,29
+Portugal,1,0,2009,5,29
+Romania,3,0,2009,5,29
+Russia,2,0,2009,5,29
+Singapore,4,0,2009,5,29
+Slovakia,1,0,2009,5,29
+Spain,143,0,2009,5,29
+Sweden,4,0,2009,5,29
+Switzerland,4,0,2009,5,29
+Thailand,2,0,2009,5,29
+Turkey,2,0,2009,5,29
+United Kingdom,203,0,2009,5,29
+United States of America,7927,11,2009,5,29
+Uruguay,2,0,2009,5,29
+Argentina,19,0,2009,5,27
+Australia,39,0,2009,5,27
+Austria,1,0,2009,5,27
+Bahrain,1,0,2009,5,27
+Belgium,7,0,2009,5,27
+Brazil,9,0,2009,5,27
+Canada,921,1,2009,5,27
+Chile,86,0,2009,5,27
+China,22,0,2009,5,27
+Colombia,16,0,2009,5,27
+Costa Rica,33,1,2009,5,27
+Cuba,4,0,2009,5,27
+Denmark,1,0,2009,5,27
+Ecuador,28,0,2009,5,27
+El Salvador,11,0,2009,5,27
+Finland,2,0,2009,5,27
+France,16,0,2009,5,27
+Germany,17,0,2009,5,27
+Greece,1,0,2009,5,27
+Guatemala ,5,0,2009,5,27
+Honduras,1,0,2009,5,27
+Iceland,1,0,2009,5,27
+India,1,0,2009,5,27
+Ireland,1,0,2009,5,27
+Israel,9,0,2009,5,27
+Italy,23,0,2009,5,27
+Japan,360,0,2009,5,27
+"Korea, Republic of",21,0,2009,5,27
+Kuwait,18,0,2009,5,27
+Malaysia,2,0,2009,5,27
+Mexico,4541,83,2009,5,27
+Netherlands,3,0,2009,5,27
+New Zealand,9,0,2009,5,27
+Norway,4,0,2009,5,27
+Panama,76,0,2009,5,27
+Peru,27,0,2009,5,27
+Philippines,2,0,2009,5,27
+Poland,3,0,2009,5,27
+Portugal,1,0,2009,5,27
+Russia,2,0,2009,5,27
+Singapore,1,0,2009,5,27
+Spain,138,0,2009,5,27
+Sweden,3,0,2009,5,27
+Switzerland,3,0,2009,5,27
+Thailand,2,0,2009,5,27
+Turkey,2,0,2009,5,27
+United Kingdom,137,0,2009,5,27
+United States of America,6764,10,2009,5,27
+Argentina,5,0,2009,5,26
+Australia,19,0,2009,5,26
+Austria,1,0,2009,5,26
+Belgium,7,0,2009,5,26
+Brazil,9,0,2009,5,26
+Canada,921,1,2009,5,26
+Chile,74,0,2009,5,26
+China,20,0,2009,5,26
+Colombia,16,0,2009,5,26
+Costa Rica,33,1,2009,5,26
+Cuba,4,0,2009,5,26
+Denmark,1,0,2009,5,26
+Ecuador,24,0,2009,5,26
+El Salvador,6,0,2009,5,26
+Finland,2,0,2009,5,26
+France,16,0,2009,5,26
+Germany,17,0,2009,5,26
+Greece,1,0,2009,5,26
+Guatemala,4,0,2009,5,26
+Honduras,1,0,2009,5,26
+Iceland,1,0,2009,5,26
+India,1,0,2009,5,26
+Ireland,1,0,2009,5,26
+Israel,8,0,2009,5,26
+Italy,19,0,2009,5,26
+Japan,350,0,2009,5,26
+"Korea, Republic of",21,0,2009,5,26
+Kuwait,18,0,2009,5,26
+Malaysia,2,0,2009,5,26
+Mexico,4174,80,2009,5,26
+Netherlands,3,0,2009,5,26
+New Zealand,9,0,2009,5,26
+Norway,4,0,2009,5,26
+Panama,76,0,2009,5,26
+Peru,27,0,2009,5,26
+Philippines,2,0,2009,5,26
+Poland,3,0,2009,5,26
+Portugal,1,0,2009,5,26
+Russia,2,0,2009,5,26
+Spain,136,0,2009,5,26
+Sweden,3,0,2009,5,26
+Switzerland,3,0,2009,5,26
+Thailand,2,0,2009,5,26
+Turkey,2,0,2009,5,26
+United Kingdom,137,0,2009,5,26
+United States of America,6764,10,2009,5,26
+Argentina,2,0,2009,5,25
+Australia,16,0,2009,5,25
+Austria,1,0,2009,5,25
+Belgium,7,0,2009,5,25
+Brazil,9,0,2009,5,25
+Canada,805,1,2009,5,25
+Chile,44,0,2009,5,25
+China,15,0,2009,5,25
+Colombia,13,0,2009,5,25
+Costa Rica,28,1,2009,5,25
+Cuba,4,0,2009,5,25
+Denmark,1,0,2009,5,25
+Ecuador,10,0,2009,5,25
+El Salvador,6,0,2009,5,25
+Finland,2,0,2009,5,25
+France,16,0,2009,5,25
+Germany,17,0,2009,5,25
+Greece,1,0,2009,5,25
+Guatemala,4,0,2009,5,25
+Honduras,1,0,2009,5,25
+Iceland,1,0,2009,5,25
+India,1,0,2009,5,25
+Ireland,1,0,2009,5,25
+Israel,8,0,2009,5,25
+Italy,19,0,2009,5,25
+Japan,345,0,2009,5,25
+"Korea, Republic of",3,0,2009,5,25
+Kuwait,18,0,2009,5,25
+Malaysia,2,0,2009,5,25
+Mexico,4174,80,2009,5,25
+Netherlands,3,0,2009,5,25
+New Zealand,9,0,2009,5,25
+Norway,4,0,2009,5,25
+Panama,76,0,2009,5,25
+Peru,25,0,2009,5,25
+Philippines,1,0,2009,5,25
+Poland,3,0,2009,5,25
+Portugal,1,0,2009,5,25
+Russia,1,0,2009,5,25
+Spain,133,0,2009,5,25
+Sweden,3,0,2009,5,25
+Switzerland,3,0,2009,5,25
+Thailand,2,0,2009,5,25
+Turkey,2,0,2009,5,25
+United Kingdom,122,0,2009,5,25
+United States of America,6552,9,2009,5,25
+Argentina,1,0,2009,5,23
+Australia,12,0,2009,5,23
+Austria,1,0,2009,5,23
+Belgium,7,0,2009,5,23
+Brazil,8,0,2009,5,23
+Canada,719,1,2009,5,23
+Chile,24,0,2009,5,23
+China,11,0,2009,5,23
+Colombia,12,0,2009,5,23
+Costa Rica,20,1,2009,5,23
+Cuba,4,0,2009,5,23
+Denmark,1,0,2009,5,23
+Ecuador,8,0,2009,5,23
+El Salvador,6,0,2009,5,23
+Finland,2,0,2009,5,23
+France,16,0,2009,5,23
+Germany,17,0,2009,5,23
+Greece,1,0,2009,5,23
+Guatemala,4,0,2009,5,23
+India,1,0,2009,5,23
+Ireland,1,0,2009,5,23
+Israel,7,0,2009,5,23
+Italy,14,0,2009,5,23
+Japan,321,0,2009,5,23
+"Korea, Republic of",3,0,2009,5,23
+Malaysia,2,0,2009,5,23
+Mexico,3892,75,2009,5,23
+Netherlands,3,0,2009,5,23
+New Zealand,9,0,2009,5,23
+Norway,4,0,2009,5,23
+Panama,76,0,2009,5,23
+Peru,5,0,2009,5,23
+Philippines,1,0,2009,5,23
+Poland,2,0,2009,5,23
+Portugal,1,0,2009,5,23
+Russia,1,0,2009,5,23
+Spain,126,0,2009,5,23
+Sweden,3,0,2009,5,23
+Switzerland,2,0,2009,5,23
+Thailand,2,0,2009,5,23
+Turkey,2,0,2009,5,23
+United Kingdom,117,0,2009,5,23
+United States of America,6552,9,2009,5,23
